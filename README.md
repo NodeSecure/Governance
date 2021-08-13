@@ -27,7 +27,7 @@ Core collaborators of the NodeSecure project.
 
 --- 
 
-Contributors on one and/or many open-source projects that touch the SlimIO project.
+Contributors on one and/or many open-source projects that touch the NodeSecure project.
 
 ### TBC
 

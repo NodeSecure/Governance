@@ -1,14 +1,14 @@
 # Contributing to NodeSecure
 
 Contributions to NodeSecure include code, documentation, answering user questions,
-running the project's infrastructure, and advocating for all types of Slim.io
+running the project's infrastructure, and advocating for all types of NodeSecure
 users.
 
 The NodeSecure project welcomes all contributions from anyone willing to work in
 good faith with other contributors and the community. No contribution is too
 small and all contributions are valued.
 
-This guide explains the process for contributing to the Slim.io project's.
+This guide explains the process for contributing to the NodeSecure project's.
 
 ## [Code of Conduct](./CODE_OF_CONDUCT.md)
 
