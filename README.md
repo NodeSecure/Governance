@@ -27,7 +27,7 @@ Core collaborators of the NodeSecure project.
 - [Fraxken](https://github.com/fraxken) - GENTILHOMME Thomas &lt;gentilhomme.thomas@gmail.com&gt;
 - [Tony-go](https://github.com/tony-go) - GOREZ Tony &lt;gorez.tony@gmail.com&gt;
 - [Antoine](https://github.com/antoine-coulon) - COULON Antoine
-- [Kawacrepe](https://github.com/Kawacrepe) - DHENNIN Vincent
+- [Kawacrepe](https://github.com/Kawacrepe) - DHENNIN Vincent &lt;vincent.dhennin7@gmail.com&gt;
 
 --- 
 
