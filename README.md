@@ -34,8 +34,12 @@ Core collaborators of the NodeSecure project.
     <td align="center">
       <a href="https://github.com/fraxken">
         <img src="https://github.com/fraxken.png?s=200" width="200px;" alt="fraxken"/>
-      <br />
-      <sub><b>GENTILHOMME Thomas</b></sub>
+        <br />
+        <div>
+          <sub><b>GENTILHOMME Thomas</b></sub>
+        </div>
+      </a>
+      <sub>API / Node.js lead at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sub>
       <br />
       <a target="_blank" href="https://www.linkedin.com/in/thomas-gentilhomme/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -49,8 +53,11 @@ Core collaborators of the NodeSecure project.
       <a href="https://github.com/tony-go">
         <img src="https://github.com/tony-go.png?s=200" width="200px;" alt="tony-go"/>
         <br />
-        <sub><b>GOREZ Tony</b></sub>
+        <div>
+          <sub><b>GOREZ Tony</b></sub>
+        </div>
       </a>
+      <sub>Software Developer at <a target="_blank" href="https://www.linkedin.com/company/postman-platform/">Postman</a></sub>
       <br />
       <a target="_blank" href="https://www.linkedin.com/in/tonygorez/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -66,8 +73,11 @@ Core collaborators of the NodeSecure project.
       <a href="https://github.com/antoine-coulon">
         <img src="https://github.com/antoine-coulon.png?s=200" width="200px;" alt="antoine-coulon"/>
         <br />
-        <sub><b>COULON Antoine</b></sub>
+        <div>
+          <sub><b>COULON Antoine</b></sub>
+        </div>
       </a>
+      <sub>Software Engineer at <a href="https://www.linkedin.com/company/tcmlabs/" target="_blank">TCM Labs</a></sub>
       <br />
       <a target="_blank" href="https://www.linkedin.com/in/antoine-coulon-b29934153/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -79,8 +89,11 @@ Core collaborators of the NodeSecure project.
       <a href="https://github.com/Kawacrepe">
         <img src="https://github.com/Kawacrepe.png?s=200" width="200px;" alt="Kawacrepe"/>
         <br />
-        <sub><b>DHENNIN Vincent</b></sub>
+        <div>
+          <sub><b>DHENNIN Vincent</b></sub>
+        </div>
       </a>
+      <sub>Backend Engineer at <a href="https://www.linkedin.com/company/mansaltd/" target="_blank">Mansa</a></sub>
       <br />
       <a target="_blank" href="https://www.linkedin.com/in/vincentdhennin/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -102,7 +115,11 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
       <a href="https://github.com/QuentinLpy">
         <img src="https://github.com/QuentinLpy.png?s=200" width="200px;" alt="QuentinLpy"/>
         <br />
-        <sub><b>LEPATELEY Quentin</b></sub>
+        <div>
+          <sub><b>LEPATELEY Quentin</b></sub>
+        </div>
+      </a>
+      <sub>Node.js at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sub>
       <br />
       <a target="_blank" href="https://www.linkedin.com/in/quentin-lepateley/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
