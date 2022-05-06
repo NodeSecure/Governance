@@ -39,7 +39,9 @@ Core collaborators of the NodeSecure project.
           <sub><b>GENTILHOMME Thomas</b></sub>
         </div>
       </a>
-      <sub style="margin-bottom: 10px; display: block">API / Node.js lead at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sub>
+      <div>
+        <sup>API / Node.js lead at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sup>
+      </div>
       <a target="_blank" href="https://www.linkedin.com/in/thomas-gentilhomme/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
@@ -56,7 +58,9 @@ Core collaborators of the NodeSecure project.
           <sub><b>GOREZ Tony</b></sub>
         </div>
       </a>
-      <sub margin-bottom="10px" display="block"> Software Developer at <a target="_blank" href="https://www.linkedin.com/company/postman-platform/">Postman</a></sub>
+      <div>
+        <sup>Software Developer at <a target="_blank" href="https://www.linkedin.com/company/postman-platform/">Postman</a></sup>
+      </div>
       <a target="_blank" href="https://www.linkedin.com/in/tonygorez/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
@@ -75,7 +79,9 @@ Core collaborators of the NodeSecure project.
           <sub><b>COULON Antoine</b></sub>
         </div>
       </a>
-      <sub margin-bottom="10px" display="block">Software Engineer at <a href="https://www.linkedin.com/company/tcmlabs/" target="_blank">TCM Labs</a></sub>
+      <div>
+        <sup>Software Engineer at <a href="https://www.linkedin.com/company/tcmlabs/" target="_blank">TCM Labs</a></sup>
+      </div>
       <a target="_blank" href="https://www.linkedin.com/in/antoine-coulon-b29934153/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
@@ -90,7 +96,9 @@ Core collaborators of the NodeSecure project.
           <sub><b>DHENNIN Vincent</b></sub>
         </div>
       </a>
-      <sub margin-bottom="10px" display="block">Backend Engineer at <a href="https://www.linkedin.com/company/mansaltd/" target="_blank">Mansa</a></sub>
+      <div>
+        <sup>Backend Engineer at <a href="https://www.linkedin.com/company/mansaltd/" target="_blank">Mansa</a></sup>
+      </div>
       <a target="_blank" href="https://www.linkedin.com/in/vincentdhennin/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
@@ -115,7 +123,9 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
           <sub><b>LEPATELEY Quentin</b></sub>
         </div>
       </a>
-      <sub margin-bottom="10px" display="block">Node.js at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sub>
+      <div>
+        <sup>Node.js at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sup>
+      </div>
       <a target="_blank" href="https://www.linkedin.com/in/quentin-lepateley/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
