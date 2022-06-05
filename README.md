@@ -25,7 +25,7 @@ Some architectural/security documentation:
 
 - [Architecture Technique (Technical Architecture)](https://docs.google.com/document/d/1853Uwup9mityAYqAOnen1KSqSA6hlBgpKU0u0ygGY4Y)
 
-## Team <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Team
 
 Core collaborators of the NodeSecure project.
 
