@@ -27,7 +27,7 @@ Here's what I can recommend;
 
 [![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
-It is normal at first to be a little lost and not feel able to contribute to what this self (Knowing that simple subjects have a tendency to leave very quickly). If you are motivated enough do not hesitate to hang on and ask us for help.
+It is normal at first to be a little lost and not feel able to contribute (Knowing that simple subjects have a tendency to leave very quickly). If you are motivated enough do not hesitate to hang on and ask us for help.
 
 ## **How do we work?**
 
@@ -37,7 +37,7 @@ Everyone is therefore free **to define a rhythm of contribution that suits him*
 
 The most important thing is to communicate on the Discord. If you can't finish a task, think about letting it be known to allow another person to contribute (and don't feel guilty about not being able to finish).
 
-## **Or do we need help?**
+## **Where do we need help?**
 
 Beyond open issues there are many things that do not require code. For example;
 
