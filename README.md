@@ -116,17 +116,17 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/QuentinLpy">
-        <img src="https://github.com/QuentinLpy.png?s=200" width="200px;" alt="QuentinLpy"/>
+      <a href="https://github.com/im-codebreaker">
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHoRLzJps1O-g/profile-displayphoto-shrink_200_200/0/1654775895012?e=1660176000&v=beta&t=G-5DqN-U5kx6SdDN86qXOqt5Ir9B-u6GaqEpPkr5T_s" width="200px;" alt="imcode-breaker"/>
         <br />
         <div>
-          <sub><b>LEPATELEY Quentin</b></sub>
+          <sub><b>BOUCHARD Mehdi</b></sub>
         </div>
       </a>
       <div>
-        <sup>Node.js at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sup>
+        <sup>Freelance at <a target="_blank" href="https://www.linkedin.com/company/imcode-breaker/">Code Breaker</a></sup>
       </div>
-      <a target="_blank" href="https://www.linkedin.com/in/quentin-lepateley/">
+      <a target="_blank" href="https://www.linkedin.com/in/mehdi-bouchard/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <br />
