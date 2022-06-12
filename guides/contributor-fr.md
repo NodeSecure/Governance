@@ -24,6 +24,8 @@ Voici ce que je peux vous recommander;
 - Rejoignez le [Discord](https://discord.gg/4Wn8rjAtB4) pour discuter, **poser vos questions** et tout simplement suivre les différents sujets.
 - Consultez le listing des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/2
 
+> **Note**: Pensez à lire le [CODE DE CONDUITE](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
+
 [![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
 Il est normal au début d'être un peu perdu et de ne pas se sentir capable de contribuer sur quoi ce soi (Sachant que les sujets simples ont une tendance à partir très rapidement). Si vous êtes assez motivés n'hésitez pas à vous accrocher et à nous demander de l'aide.
