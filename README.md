@@ -106,15 +106,6 @@ Core collaborators of the NodeSecure project.
         <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
-  </tr>
-</table>
-
----
-
-Contributors on one and/or many open-source projects that touch the NodeSecure project.
-
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/im-codebreaker">
         <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHoRLzJps1O-g/profile-displayphoto-shrink_200_200/0/1654775895012?e=1660176000&v=beta&t=G-5DqN-U5kx6SdDN86qXOqt5Ir9B-u6GaqEpPkr5T_s" width="200px;" alt="imcode-breaker"/>
@@ -127,6 +118,31 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
         <sup>Freelance at <a target="_blank" href="https://www.linkedin.com/company/imcode-breaker/">Code Breaker</a></sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/mehdi-bouchard/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
+
+---
+
+Contributors on one and/or many open-source projects that touch the NodeSecure project.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rossb0b">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE3_1QWhE3uXg/profile-displayphoto-shrink_200_200/0/1539156663710?e=1665619200&v=beta&t=ciMsCy5llH477qkEDWL-psub0PehbsgnXqTHPerwpKo" width="200px;" alt="nicolas-hallaert"/>
+        <br />
+        <div>
+          <sub><b>HALLAERT Nicolas</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>Node.js developer at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></a></sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/nicolas-hallaert/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <br />
