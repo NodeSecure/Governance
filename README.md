@@ -108,7 +108,7 @@ Core collaborators of the NodeSecure project.
     </td>
     <td align="center">
       <a href="https://github.com/im-codebreaker">
-        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHoRLzJps1O-g/profile-displayphoto-shrink_200_200/0/1654775895012?e=1660176000&v=beta&t=G-5DqN-U5kx6SdDN86qXOqt5Ir9B-u6GaqEpPkr5T_s" width="200px;" alt="imcode-breaker"/>
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHoRLzJps1O-g/profile-displayphoto-shrink_200_200/0/1654775895012?e=1667433600&v=beta&t=Sge86Xqlz3RwnDnWx7W6d-dTTdNmKRVlMqxkq2PoHfg" width="200px;" alt="imcode-breaker"/>
         <br />
         <div>
           <sub><b>BOUCHARD Mehdi</b></sub>
@@ -143,6 +143,22 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
         <sup>Node.js developer at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></a></sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/nicolas-hallaert/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
+        <td align="center">
+      <a href="https://github.com/PierreDemailly">
+        <img src="https://media-exp1.licdn.com/dms/image/C5603AQEpf1ZWzM6WBA/profile-displayphoto-shrink_200_200/0/1536597698287?e=1667433600&v=beta&t=aqhw6R75m7NxoPJ-t29AxFEP9Pvj-M-riDwbZadomVI" width="200px;" alt="nicolas-hallaert"/>
+        <br />
+        <div>
+          <sub><b>DEMAILLY Pierre</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>Node.js developer</sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/pierre-demailly/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <br />
