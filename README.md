@@ -128,7 +128,7 @@ Core collaborators of the NodeSecure project.
 <details>
 <summary>How to be elected core contributor?</summary>
 
-These are contributors who have **proven** their importance and impact through **multiple contributions** to one or more projects of the organisation.
+These are contributors who have **proven** their importance and impact through **multiple contributions** to one or more projects of the organization.
 
 Contributing is not **only about coding**, it can also be participating in the **life** of the project which is just as important e.g. discord, meetings, branding, etc. Developers who are champions or maintainers of at least one project have a high probability to be elected to the core team.
 
