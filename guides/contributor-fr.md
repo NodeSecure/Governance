@@ -20,7 +20,7 @@ Il n'y a pas de réponse ultime et chacun aura des besoins et un niveau différe
 Voici ce que je peux vous recommander;
 
 - Prenez le temps de découvrir et utiliser nos outils, **lire les codes**.
-- Lisez la série NodeSecure sur [dev.to](https://dev.to/fraxken/node-secure-release-v0-4-0-2oih) pour mieux comprendre le projet.
+- Lisez les articles NodeSecure sur [dev.to](https://dev.to/nodesecure) pour mieux comprendre le projet.
 - Rejoignez le [Discord](https://discord.gg/4Wn8rjAtB4) pour discuter, **poser vos questions** et tout simplement suivre les différents sujets.
 - Consultez le listing des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/2
 
