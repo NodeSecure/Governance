@@ -108,7 +108,7 @@ Core collaborators of the NodeSecure project.
     </td>
     <td align="center">
       <a href="https://github.com/im-codebreaker">
-        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHoRLzJps1O-g/profile-displayphoto-shrink_200_200/0/1654775895012?e=1667433600&v=beta&t=Sge86Xqlz3RwnDnWx7W6d-dTTdNmKRVlMqxkq2PoHfg" width="200px;" alt="imcode-breaker"/>
+        <img src="https://github.com/im-codebreaker.png?s=200" width="200px;" alt="im-codebreaker"/>
         <br />
         <div>
           <sub><b>BOUCHARD Mehdi</b></sub>
@@ -142,7 +142,7 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
   <tr>
     <td align="center">
       <a href="https://github.com/Rossb0b">
-        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE3_1QWhE3uXg/profile-displayphoto-shrink_200_200/0/1539156663710?e=1665619200&v=beta&t=ciMsCy5llH477qkEDWL-psub0PehbsgnXqTHPerwpKo" width="200px;" alt="nicolas-hallaert"/>
+        <img src="https://github.com/Rossb0b.png?s=200" width="200px;" alt="nicolas-hallaert"/>
         <br />
         <div>
           <sub><b>HALLAERT Nicolas</b></sub>
@@ -158,7 +158,7 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
     </td>
         <td align="center">
       <a href="https://github.com/PierreDemailly">
-        <img src="https://media-exp1.licdn.com/dms/image/C5603AQEpf1ZWzM6WBA/profile-displayphoto-shrink_200_200/0/1536597698287?e=1667433600&v=beta&t=aqhw6R75m7NxoPJ-t29AxFEP9Pvj-M-riDwbZadomVI" width="200px;" alt="nicolas-hallaert"/>
+        <img src="https://github.com/PierreDemailly.png?s=200" width="200px;" alt="PierreDemailly"/>
         <br />
         <div>
           <sub><b>DEMAILLY Pierre</b></sub>
