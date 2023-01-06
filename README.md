@@ -8,12 +8,12 @@ NodeSecure is an organization that aims to create open-source Node.js & JavaScri
 
 Our most notable projects are
 
-- [Nsecure](https://github.com/ES-Community/nsecure)
+- [CLI](https://github.com/NodeSecure/cli)
 - [JS-X-Ray](https://github.com/NodeSecure/js-x-ray)
 
 ### Want's more ?
 
-There is NodeSecure articles series on [dev.to](https://dev.to/fraxken/nodesecure-the-future-1f9c).
+There is NodeSecure articles series on [dev.to](https://dev.to/nodesecure).
 
 ## Contribution Guidelines
 
