@@ -23,7 +23,7 @@ Here's what I can recommend;
 - Take the time to discover and use our tools, **read the codes**.
 - Read the NodeSecure articles on [dev.to](https://dev.to/nodesecure) to better understand the project.
 - Join the [Discord](https://discord.gg/4Wn8rjAtB4) to chat, **ask your questions** and simply follow the different topics.
-- Check out the task listing to see if you can already contribute: [https://github.com/orgs/NodeSecure/projects/2](https://github.com/orgs/NodeSecure/projects/2)
+- Check out the task listing to see if you can already contribute: https://github.com/orgs/NodeSecure/projects/1
 
 [![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
