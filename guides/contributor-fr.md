@@ -23,7 +23,7 @@ Voici ce que je peux vous recommander;
 - Lisez les articles NodeSecure sur [dev.to](https://dev.to/nodesecure) pour mieux comprendre le projet.
 - Regarder [ma conférence à Paris.js](https://www.youtube.com/watch?v=hmrKI1jZLGc) où je présente NodeSecure.
 - Rejoignez le [Discord](https://discord.gg/4Wn8rjAtB4) pour discuter, **poser vos questions** et tout simplement suivre les différents sujets.
-- Consultez le listing des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/2
+- Consultez le listing des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/1
 
 > **Note**: Pensez à lire le [CODE DE CONDUITE](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
 
