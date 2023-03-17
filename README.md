@@ -122,6 +122,22 @@ Core collaborators of the NodeSecure project.
       </a>
       <br />
     </td>
+    <td align="center">
+      <a href="https://github.com/PierreDemailly">
+        <img src="https://github.com/PierreDemailly.png?s=200" width="200px;" alt="PierreDemailly"/>
+        <br />
+        <div>
+          <sub><b>DEMAILLY Pierre</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>Node.js developer</sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/pierre-demailly/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
   </tr>
 </table>
 
@@ -152,22 +168,6 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
         <sup>Node.js developer at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></a></sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/nicolas-hallaert/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br />
-    </td>
-        <td align="center">
-      <a href="https://github.com/PierreDemailly">
-        <img src="https://github.com/PierreDemailly.png?s=200" width="200px;" alt="PierreDemailly"/>
-        <br />
-        <div>
-          <sub><b>DEMAILLY Pierre</b></sub>
-        </div>
-      </a>
-      <div>
-        <sup>Node.js developer</sup>
-      </div>
-      <a target="_blank" href="https://www.linkedin.com/in/pierre-demailly/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <br />
