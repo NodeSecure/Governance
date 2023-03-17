@@ -18,7 +18,7 @@ jobs:
   security-scoring:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c # v3.3.0
+      - uses: actions/checkout@24cb9080177205b6e8c946b17badbe402adc938f # v3.4.0
       - name: OpenSSF Scorecard Monitor
         uses: UlisesGascon/openssf-scorecard-monitor@e3526f91e57a02356942f85cd3da95ead823d28e # v2.0.0-beta2
         with:
