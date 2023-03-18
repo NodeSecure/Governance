@@ -33,4 +33,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           max-request-in-parallel: 10
           discovery-enabled: true
-          discovery-orgs: 'nodesecure'
+          discovery-orgs: 'NodeSecure'
