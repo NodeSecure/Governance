@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@24cb9080177205b6e8c946b17badbe402adc938f # v3.4.0
       - name: OpenSSF Scorecard Monitor
-        uses: UlisesGascon/openssf-scorecard-monitor@e3526f91e57a02356942f85cd3da95ead823d28e # v2.0.0-beta2
+        uses: UlisesGascon/openssf-scorecard-monitor@468db23fdfed383552532dbb3d3bbbf0a96dcd84 # v2.0.0-beta3
         with:
           scope: reports/ossf_scorecard/scope.json
           database: reports/ossf_scorecard/database.json
@@ -30,6 +30,7 @@ jobs:
           generate-issue: true
           report-tags-enabled: true
           issue-title: "OpenSSF Scorecard Report Updated!"
+          issue-assignees: 'fraxken'
           github-token: ${{ secrets.GITHUB_TOKEN }}
           max-request-in-parallel: 10
           discovery-enabled: true
