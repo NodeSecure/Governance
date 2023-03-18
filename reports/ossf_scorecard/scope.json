@@ -1,0 +1,37 @@
+{
+  "github.com": {
+    "NodeSecure": {
+      "included": [
+        "js-x-ray",
+        "report",
+        "size-satisfies",
+        "npm-tarball-license-parser",
+        "gitlab",
+        "cli",
+        "github",
+        "npm-security-fetcher",
+        "vulnera",
+        "eslint-config",
+        "i18n",
+        "scanner",
+        "sec-literal",
+        "npm-registry-sdk",
+        "flags",
+        "licenses-conformance",
+        "fs-walk",
+        "rc",
+        "authors",
+        "ci-action",
+        "ci",
+        "utils",
+        "preview",
+        "vis-network",
+        "domain-check",
+        "ossf-scorecard-sdk",
+        "estree-ast-utils",
+        "documentation-ui"
+      ],
+      "excluded": []
+    }
+  }
+}

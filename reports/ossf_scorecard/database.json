@@ -1,0 +1,230 @@
+{
+  "github.com": {
+    "NodeSecure": {
+      "github": {
+        "previous": [],
+        "current": {
+          "score": 8.6,
+          "date": "2023-03-14",
+          "commit": "c6d28e503489ba27a521abbe65727b4967115020"
+        }
+      },
+      "js-x-ray": {
+        "previous": [],
+        "current": {
+          "score": 7.4,
+          "date": "2023-03-16",
+          "commit": "1ba4219225d83778ad4135802f3e682f43bd56b1"
+        }
+      },
+      "eslint-config": {
+        "previous": [],
+        "current": {
+          "score": 8.6,
+          "date": "2023-03-17",
+          "commit": "9363bb43e3d74083aad6f1fd4da97b8c50bcc374"
+        }
+      },
+      "npm-tarball-license-parser": {
+        "previous": [],
+        "current": {
+          "score": 8.5,
+          "date": "2023-03-18",
+          "commit": "fb929e168c4a71815393e17b227eeccea2a98d79"
+        }
+      },
+      "vulnera": {
+        "previous": [],
+        "current": {
+          "score": 7.9,
+          "date": "2023-03-17",
+          "commit": "7311c048bd2580687fd6e3e26fbfd9c792118d90"
+        }
+      },
+      "report": {
+        "previous": [],
+        "current": {
+          "score": 8.5,
+          "date": "2023-03-17",
+          "commit": "96f79e37e6f3440fac4215db5582f4769838e803"
+        }
+      },
+      "cli": {
+        "previous": [],
+        "current": {
+          "score": 8,
+          "date": "2023-03-13",
+          "commit": "6853ab54c19f5ef77a36f11fd36acd4ac8ca3020"
+        }
+      },
+      "gitlab": {
+        "previous": [],
+        "current": {
+          "score": 8.6,
+          "date": "2023-03-17",
+          "commit": "99e8702748272f69818bb47f00966c47e9d91160"
+        }
+      },
+      "npm-security-fetcher": {
+        "previous": [],
+        "current": {
+          "score": 8.4,
+          "date": "2023-03-15",
+          "commit": "a277710ef0a4c43dcf41adf3b4aa90566280d32c"
+        }
+      },
+      "size-satisfies": {
+        "previous": [],
+        "current": {
+          "score": 9.2,
+          "date": "2023-03-16",
+          "commit": "8e7937d023f49b6b9816835646af9b0e4f6b25c2"
+        }
+      },
+      "licenses-conformance": {
+        "previous": [],
+        "current": {
+          "score": 8.4,
+          "date": "2023-03-14",
+          "commit": "ad67024fb13837bfca0db2785478f9fcfb48571e"
+        }
+      },
+      "rc": {
+        "previous": [],
+        "current": {
+          "score": 8.9,
+          "date": "2023-03-16",
+          "commit": "aef6c34377049d94048171cedad3a4dcb5efd29f"
+        }
+      },
+      "i18n": {
+        "previous": [],
+        "current": {
+          "score": 8.8,
+          "date": "2023-03-12",
+          "commit": "186516c9548b9c064dd5dd70fc12d716e1f45234"
+        }
+      },
+      "flags": {
+        "previous": [],
+        "current": {
+          "score": 8.7,
+          "date": "2023-03-17",
+          "commit": "461359e15c3e9cc42bff86bb315893e17b324c0e"
+        }
+      },
+      "scanner": {
+        "previous": [],
+        "current": {
+          "score": 7.6,
+          "date": "2023-03-18",
+          "commit": "e1b2f65f01d2bdc8a889ef513708260e2a6c6ce1"
+        }
+      },
+      "ci-action": {
+        "previous": [],
+        "current": {
+          "score": 7.2,
+          "date": "2023-03-12",
+          "commit": "ce089c3223f734ddaabbf399381767dee69faf29"
+        }
+      },
+      "authors": {
+        "previous": [],
+        "current": {
+          "score": 8.6,
+          "date": "2023-03-17",
+          "commit": "68c87200a574852e9071f2c98acdb04055d1825f"
+        }
+      },
+      "fs-walk": {
+        "previous": [],
+        "current": {
+          "score": 8.4,
+          "date": "2023-03-12",
+          "commit": "8b986025dcc1436379f106b8dfd8141443f6d367"
+        }
+      },
+      "npm-registry-sdk": {
+        "previous": [],
+        "current": {
+          "score": 8.5,
+          "date": "2023-03-12",
+          "commit": "62c7bb24df2650f26404c72181be8751676bf345"
+        }
+      },
+      "sec-literal": {
+        "previous": [],
+        "current": {
+          "score": 9,
+          "date": "2023-03-18",
+          "commit": "5b4decd27c6f1dcb93a3143839b5dccb287b35c1"
+        }
+      },
+      "ci": {
+        "previous": [],
+        "current": {
+          "score": 7.7,
+          "date": "2023-03-12",
+          "commit": "48917bfe65ffcce853e1a71e34678b20df4e8416"
+        }
+      },
+      "domain-check": {
+        "previous": [],
+        "current": {
+          "score": 9.1,
+          "date": "2023-03-17",
+          "commit": "8d1eb71c21ff3e6d63abdfdc094c94a0d19dd570"
+        }
+      },
+      "documentation-ui": {
+        "previous": [],
+        "current": {
+          "score": 8.2,
+          "date": "2023-03-07",
+          "commit": "4c2c62809956190a0cf9583442271546ee4f331c"
+        }
+      },
+      "preview": {
+        "previous": [],
+        "current": {
+          "score": 8.3,
+          "date": "2023-03-11",
+          "commit": "2360e6167bd5f2d195dd96862da2f7908e0023a4"
+        }
+      },
+      "ossf-scorecard-sdk": {
+        "previous": [],
+        "current": {
+          "score": 8.7,
+          "date": "2023-03-13",
+          "commit": "e4032f1eec2891b635777bda6858de0c9352d4fb"
+        }
+      },
+      "estree-ast-utils": {
+        "previous": [],
+        "current": {
+          "score": 8.9,
+          "date": "2023-03-16",
+          "commit": "12afb529f4d908fb7a0fbff47b4241be6be789ee"
+        }
+      },
+      "vis-network": {
+        "previous": [],
+        "current": {
+          "score": 8.2,
+          "date": "2023-03-10",
+          "commit": "6b80c0db98cd2d08be6de39fb5c97298376a86c0"
+        }
+      },
+      "utils": {
+        "previous": [],
+        "current": {
+          "score": 8.5,
+          "date": "2023-03-17",
+          "commit": "1f8ad90608eee5f5391e7c3da505f325d9845393"
+        }
+      }
+    }
+  }
+}
