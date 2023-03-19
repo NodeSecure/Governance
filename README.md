@@ -97,7 +97,7 @@ Core collaborators of the NodeSecure project.
         </div>
       </a>
       <div>
-        <sup>Backend Engineer at <a href="https://www.linkedin.com/company/mansaltd/" target="_blank">Mansa</a></sup>
+        <sup>Backend Engineer</sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/vincentdhennin/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -115,7 +115,7 @@ Core collaborators of the NodeSecure project.
         </div>
       </a>
       <div>
-        <sup>Freelance at <a target="_blank" href="https://www.linkedin.com/company/imcode-breaker/">Code Breaker</a></sup>
+        <sup>Front-end developer at <a target="_blank" href="https://antidots.com/">Antidots</a></sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/mehdi-bouchard/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -165,9 +165,25 @@ Contributors on one and/or many open-source projects that touch the NodeSecure p
         </div>
       </a>
       <div>
-        <sup>Node.js developer at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></a></sup>
+        <sup>Node.js developer at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/nicolas-hallaert/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/fabnguess">
+        <img src="https://github.com/fabnguess.png?s=200" width="200px;" alt="Kouadio Fabrice Nguessan"/>
+        <br />
+        <div>
+          <sub><b>Kouadio Fabrice Nguessan</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>Back-end developer</sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/kouadio-fabrice-n-guessan-59395b108/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <br />
