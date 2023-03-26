@@ -15,11 +15,16 @@
             "score": 7.4,
             "date": "2023-03-16",
             "commit": "1ba4219225d83778ad4135802f3e682f43bd56b1"
+          },
+          {
+            "score": 8.2,
+            "date": "2023-03-18",
+            "commit": "8d5850e01dc8668113a7a9bc4463b1d7726fd489"
           }
         ],
         "current": {
-          "score": 8.2,
-          "date": "2023-03-18",
+          "score": 9.1,
+          "date": "2023-03-21",
           "commit": "8d5850e01dc8668113a7a9bc4463b1d7726fd489"
         }
       },
@@ -32,10 +37,16 @@
         }
       },
       "npm-tarball-license-parser": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 8.5,
+            "date": "2023-03-18",
+            "commit": "fb929e168c4a71815393e17b227eeccea2a98d79"
+          }
+        ],
         "current": {
-          "score": 8.5,
-          "date": "2023-03-18",
+          "score": 9,
+          "date": "2023-03-25",
           "commit": "fb929e168c4a71815393e17b227eeccea2a98d79"
         }
       },
@@ -54,11 +65,17 @@
         }
       },
       "report": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 8.5,
+            "date": "2023-03-17",
+            "commit": "96f79e37e6f3440fac4215db5582f4769838e803"
+          }
+        ],
         "current": {
-          "score": 8.5,
-          "date": "2023-03-17",
-          "commit": "96f79e37e6f3440fac4215db5582f4769838e803"
+          "score": 8.6,
+          "date": "2023-03-24",
+          "commit": "51be1af66d1e7e0cf845b201752625f738a6e510"
         }
       },
       "cli": {
@@ -92,18 +109,30 @@
         }
       },
       "size-satisfies": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 9.2,
+            "date": "2023-03-16",
+            "commit": "8e7937d023f49b6b9816835646af9b0e4f6b25c2"
+          }
+        ],
         "current": {
-          "score": 9.2,
-          "date": "2023-03-16",
+          "score": 8.5,
+          "date": "2023-03-23",
           "commit": "8e7937d023f49b6b9816835646af9b0e4f6b25c2"
         }
       },
       "licenses-conformance": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 8.4,
+            "date": "2023-03-14",
+            "commit": "ad67024fb13837bfca0db2785478f9fcfb48571e"
+          }
+        ],
         "current": {
-          "score": 8.4,
-          "date": "2023-03-14",
+          "score": 9.1,
+          "date": "2023-03-21",
           "commit": "ad67024fb13837bfca0db2785478f9fcfb48571e"
         }
       },
@@ -168,10 +197,16 @@
         }
       },
       "fs-walk": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 8.4,
+            "date": "2023-03-12",
+            "commit": "8b986025dcc1436379f106b8dfd8141443f6d367"
+          }
+        ],
         "current": {
-          "score": 8.4,
-          "date": "2023-03-12",
+          "score": 9.1,
+          "date": "2023-03-19",
           "commit": "8b986025dcc1436379f106b8dfd8141443f6d367"
         }
       },
@@ -184,10 +219,16 @@
         }
       },
       "sec-literal": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 9,
+            "date": "2023-03-18",
+            "commit": "5b4decd27c6f1dcb93a3143839b5dccb287b35c1"
+          }
+        ],
         "current": {
-          "score": 9,
-          "date": "2023-03-18",
+          "score": 8.4,
+          "date": "2023-03-25",
           "commit": "5b4decd27c6f1dcb93a3143839b5dccb287b35c1"
         }
       },
@@ -206,10 +247,16 @@
         }
       },
       "domain-check": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 9.1,
+            "date": "2023-03-17",
+            "commit": "8d1eb71c21ff3e6d63abdfdc094c94a0d19dd570"
+          }
+        ],
         "current": {
-          "score": 9.1,
-          "date": "2023-03-17",
+          "score": 8.5,
+          "date": "2023-03-24",
           "commit": "8d1eb71c21ff3e6d63abdfdc094c94a0d19dd570"
         }
       },
@@ -230,11 +277,17 @@
         }
       },
       "ossf-scorecard-sdk": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 8.7,
+            "date": "2023-03-13",
+            "commit": "e4032f1eec2891b635777bda6858de0c9352d4fb"
+          }
+        ],
         "current": {
-          "score": 8.7,
-          "date": "2023-03-13",
-          "commit": "e4032f1eec2891b635777bda6858de0c9352d4fb"
+          "score": 8.8,
+          "date": "2023-03-21",
+          "commit": "d3e1a42aedf039131a7f077b2f6803141d6ecb34"
         }
       },
       "estree-ast-utils": {
