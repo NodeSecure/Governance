@@ -149,11 +149,16 @@
             "score": 8.6,
             "date": "2023-03-17",
             "commit": "99e8702748272f69818bb47f00966c47e9d91160"
+          },
+          {
+            "score": 8.2,
+            "date": "2023-04-28",
+            "commit": "040332aae3779f487e304acf4d2a492bbdd27b7d"
           }
         ],
         "current": {
-          "score": 8.2,
-          "date": "2023-04-28",
+          "score": 8.1,
+          "date": "2023-05-05",
           "commit": "040332aae3779f487e304acf4d2a492bbdd27b7d"
         }
       },
@@ -163,11 +168,16 @@
             "score": 8.4,
             "date": "2023-03-15",
             "commit": "a277710ef0a4c43dcf41adf3b4aa90566280d32c"
+          },
+          {
+            "score": 7.7,
+            "date": "2023-04-26",
+            "commit": "a277710ef0a4c43dcf41adf3b4aa90566280d32c"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2023-04-26",
+          "score": 8.2,
+          "date": "2023-05-03",
           "commit": "a277710ef0a4c43dcf41adf3b4aa90566280d32c"
         }
       },
@@ -187,11 +197,16 @@
             "score": 9.2,
             "date": "2023-04-06",
             "commit": "8e7937d023f49b6b9816835646af9b0e4f6b25c2"
+          },
+          {
+            "score": 8.3,
+            "date": "2023-04-27",
+            "commit": "8e7937d023f49b6b9816835646af9b0e4f6b25c2"
           }
         ],
         "current": {
-          "score": 8.3,
-          "date": "2023-04-27",
+          "score": 8.2,
+          "date": "2023-05-04",
           "commit": "8e7937d023f49b6b9816835646af9b0e4f6b25c2"
         }
       },
@@ -221,11 +236,16 @@
             "score": 8.5,
             "date": "2023-04-22",
             "commit": "36f45096580a77753891631307d4575e63abf259"
+          },
+          {
+            "score": 9.2,
+            "date": "2023-04-25",
+            "commit": "36f45096580a77753891631307d4575e63abf259"
           }
         ],
         "current": {
-          "score": 9.2,
-          "date": "2023-04-25",
+          "score": 8.1,
+          "date": "2023-05-02",
           "commit": "36f45096580a77753891631307d4575e63abf259"
         }
       },
@@ -320,11 +340,16 @@
             "score": 9.3,
             "date": "2023-04-05",
             "commit": "478f98fb5bbcfdab6fce3cbc506ad7c366047c2b"
+          },
+          {
+            "score": 8.6,
+            "date": "2023-04-09",
+            "commit": "478f98fb5bbcfdab6fce3cbc506ad7c366047c2b"
           }
         ],
         "current": {
-          "score": 8.6,
-          "date": "2023-04-09",
+          "score": 8.4,
+          "date": "2023-04-30",
           "commit": "478f98fb5bbcfdab6fce3cbc506ad7c366047c2b"
         }
       },
@@ -358,12 +383,17 @@
             "score": 8.4,
             "date": "2023-04-02",
             "commit": "8b986025dcc1436379f106b8dfd8141443f6d367"
+          },
+          {
+            "score": 8,
+            "date": "2023-04-22T17:24:35Z",
+            "commit": "4b54a7212884824856636eed890c2342c55a0a45"
           }
         ],
         "current": {
-          "score": 8,
-          "date": "2023-04-22T17:24:35Z",
-          "commit": "4b54a7212884824856636eed890c2342c55a0a45"
+          "score": 8.1,
+          "date": "2023-05-04T06:04:19Z",
+          "commit": "3a81f533d201ca277d635b651732ff26de40823f"
         }
       },
       "npm-registry-sdk": {
@@ -508,11 +538,16 @@
             "score": 7.9,
             "date": "2023-04-20",
             "commit": "12afb529f4d908fb7a0fbff47b4241be6be789ee"
+          },
+          {
+            "score": 7.7,
+            "date": "2023-04-27",
+            "commit": "12afb529f4d908fb7a0fbff47b4241be6be789ee"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2023-04-27",
+          "score": 7.6,
+          "date": "2023-05-04",
           "commit": "12afb529f4d908fb7a0fbff47b4241be6be789ee"
         }
       },
