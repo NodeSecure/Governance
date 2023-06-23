@@ -35,4 +35,3 @@ assignees: ''
 - [ ] [npm-registry-sdk](https://github.com/NodeSecure/npm-registry-sdk)
 - [ ] [npm-security-fetcher](https://github.com/NodeSecure/npm-security-fetcher)
 - [ ] [authors](https://github.com/NodeSecure/authors)
-- [ ] [eslint-config](https://github.com/NodeSecure/eslint-config)
