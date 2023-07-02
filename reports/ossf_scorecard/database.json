@@ -626,11 +626,16 @@
             "score": 7.7,
             "date": "2023-06-02",
             "commit": "99df7e60fd7e765d872a16d326b79b981454f480"
+          },
+          {
+            "score": 7.8,
+            "date": "2023-06-23",
+            "commit": "7d86f1c6ef1ca99abe7bf2f2996bd4c4deecdc14"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2023-06-23",
+          "score": 7.7,
+          "date": "2023-06-30",
           "commit": "7d86f1c6ef1ca99abe7bf2f2996bd4c4deecdc14"
         }
       },
@@ -767,12 +772,17 @@
             "score": 9.4,
             "date": "2023-04-11",
             "commit": "1199473434121cbaea0eda4596db01010cf3a31a"
+          },
+          {
+            "score": 9,
+            "date": "2023-04-16T22:42:56Z",
+            "commit": "f749729571b6a6be6e611395fa3ce551942b285e"
           }
         ],
         "current": {
-          "score": 9,
-          "date": "2023-04-16T22:42:56Z",
-          "commit": "f749729571b6a6be6e611395fa3ce551942b285e"
+          "score": 8.4,
+          "date": "2023-06-25T22:42:53Z",
+          "commit": "ea4de5b1b738454dbd53882312f58ed79014d38e"
         }
       },
       "domain-check": {
