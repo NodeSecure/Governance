@@ -277,12 +277,17 @@
             "score": 8.1,
             "date": "2023-09-22",
             "commit": "7947e22ca83d13a63979c3a75e2649c97a827277"
+          },
+          {
+            "score": 8,
+            "date": "2023-10-20",
+            "commit": "7947e22ca83d13a63979c3a75e2649c97a827277"
           }
         ],
         "current": {
-          "score": 8,
-          "date": "2023-10-20",
-          "commit": "7947e22ca83d13a63979c3a75e2649c97a827277"
+          "score": 8.1,
+          "date": "2023-11-04",
+          "commit": "cd4b92b0b86fa6f6bbb20b1b147733bbb7b542c8"
         }
       },
       "cli": {
