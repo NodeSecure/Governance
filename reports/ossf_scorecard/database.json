@@ -130,12 +130,17 @@
             "score": 8.1,
             "date": "2023-10-10T02:46:56Z",
             "commit": "80cffa016796c2e616c10a62a301cf7a296f4b96"
+          },
+          {
+            "score": 8,
+            "date": "2023-10-24T02:46:42Z",
+            "commit": "80cffa016796c2e616c10a62a301cf7a296f4b96"
           }
         ],
         "current": {
-          "score": 8,
-          "date": "2023-10-24T02:46:42Z",
-          "commit": "80cffa016796c2e616c10a62a301cf7a296f4b96"
+          "score": 8.1,
+          "date": "2023-11-07T02:46:45Z",
+          "commit": "f96b8809f0f9371aef87129cf2f307f1fdca32e1"
         }
       },
       "npm-tarball-license-parser": {
@@ -282,12 +287,17 @@
             "score": 8,
             "date": "2023-10-20",
             "commit": "7947e22ca83d13a63979c3a75e2649c97a827277"
+          },
+          {
+            "score": 8.1,
+            "date": "2023-11-04",
+            "commit": "cd4b92b0b86fa6f6bbb20b1b147733bbb7b542c8"
           }
         ],
         "current": {
-          "score": 8.1,
-          "date": "2023-11-04",
-          "commit": "cd4b92b0b86fa6f6bbb20b1b147733bbb7b542c8"
+          "score": 8.2,
+          "date": "2023-11-10",
+          "commit": "6ca4fac4afab73fc0c8f61e0727c75548fafd0ee"
         }
       },
       "cli": {
@@ -493,12 +503,17 @@
             "score": 7.5,
             "date": "2023-09-30T08:49:13Z",
             "commit": "d9b6ed6eb966df422aac9d9d4aa967cc7facc59b"
+          },
+          {
+            "score": 7.4,
+            "date": "2023-10-19T07:34:41Z",
+            "commit": "d9b6ed6eb966df422aac9d9d4aa967cc7facc59b"
           }
         ],
         "current": {
-          "score": 7.4,
-          "date": "2023-10-19T07:34:41Z",
-          "commit": "d9b6ed6eb966df422aac9d9d4aa967cc7facc59b"
+          "score": 7.5,
+          "date": "2023-11-09T07:34:24Z",
+          "commit": "37e362d756ea07662ee8052320a7d4ec1c097cad"
         }
       },
       "licenses-conformance": {
@@ -665,12 +680,17 @@
             "score": 8.5,
             "date": "2023-09-24T08:38:34Z",
             "commit": "e5e24f1715f1d91f90d7ac272d4fc5f1d5fab856"
+          },
+          {
+            "score": 8.4,
+            "date": "2023-10-22T08:39:06Z",
+            "commit": "e5e24f1715f1d91f90d7ac272d4fc5f1d5fab856"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2023-10-22T08:39:06Z",
-          "commit": "e5e24f1715f1d91f90d7ac272d4fc5f1d5fab856"
+          "score": 8.5,
+          "date": "2023-11-06T20:48:01Z",
+          "commit": "c83fdbc991dd39ccd439bd2f7f34e81afc397442"
         }
       },
       "flags": {
@@ -970,12 +990,17 @@
             "score": 8,
             "date": "2023-09-24T03:29:20Z",
             "commit": "c20ddcd1a614a47b2b7b968aeb7668e2d80d8c44"
+          },
+          {
+            "score": 7.9,
+            "date": "2023-10-22T03:29:21Z",
+            "commit": "c20ddcd1a614a47b2b7b968aeb7668e2d80d8c44"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2023-10-22T03:29:21Z",
-          "commit": "c20ddcd1a614a47b2b7b968aeb7668e2d80d8c44"
+          "score": 8.1,
+          "date": "2023-11-06T20:56:10Z",
+          "commit": "bf34ac526b9c40c98a22f5f484bfd571e588de89"
         }
       },
       "npm-registry-sdk": {
@@ -1423,12 +1448,17 @@
             "score": 7.6,
             "date": "2023-10-06T18:31:45Z",
             "commit": "4752b275ff569e2c1542360631c9075fd3c2105d"
+          },
+          {
+            "score": 7.5,
+            "date": "2023-10-20T18:29:59Z",
+            "commit": "4752b275ff569e2c1542360631c9075fd3c2105d"
           }
         ],
         "current": {
-          "score": 7.5,
-          "date": "2023-10-20T18:29:59Z",
-          "commit": "4752b275ff569e2c1542360631c9075fd3c2105d"
+          "score": 7.6,
+          "date": "2023-11-10T18:31:00Z",
+          "commit": "42eeb6f1a2a1a2cc6c8c6ca4752a7704cd418233"
         }
       }
     }
