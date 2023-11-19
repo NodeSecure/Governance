@@ -1221,12 +1221,17 @@
             "score": 8.5,
             "date": "2023-09-08",
             "commit": "43ee606bc6581f99d5b9236af854b205bb90c820"
+          },
+          {
+            "score": 8.4,
+            "date": "2023-09-22",
+            "commit": "43ee606bc6581f99d5b9236af854b205bb90c820"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2023-09-22",
-          "commit": "43ee606bc6581f99d5b9236af854b205bb90c820"
+          "score": 8.1,
+          "date": "2023-11-17",
+          "commit": "d2ee12afabbbe35e961e7236b39245d3b05c7eb2"
         }
       },
       "documentation-ui": {
