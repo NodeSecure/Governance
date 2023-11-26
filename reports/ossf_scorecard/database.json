@@ -371,12 +371,17 @@
             "score": 8.8,
             "date": "2023-09-18T18:46:14Z",
             "commit": "437520afdefd42ceb165a4babd8dc37db06f7c14"
+          },
+          {
+            "score": 8.6,
+            "date": "2023-10-23T18:46:15Z",
+            "commit": "437520afdefd42ceb165a4babd8dc37db06f7c14"
           }
         ],
         "current": {
-          "score": 8.6,
-          "date": "2023-10-23T18:46:15Z",
-          "commit": "437520afdefd42ceb165a4babd8dc37db06f7c14"
+          "score": 9,
+          "date": "2023-11-26T00:27:34Z",
+          "commit": "abcd9c82f13decec1443da7772fa38809e297c15"
         }
       },
       "gitlab": {
@@ -685,11 +690,16 @@
             "score": 8.4,
             "date": "2023-10-22T08:39:06Z",
             "commit": "e5e24f1715f1d91f90d7ac272d4fc5f1d5fab856"
+          },
+          {
+            "score": 8.5,
+            "date": "2023-11-06T20:48:01Z",
+            "commit": "c83fdbc991dd39ccd439bd2f7f34e81afc397442"
           }
         ],
         "current": {
-          "score": 8.5,
-          "date": "2023-11-06T20:48:01Z",
+          "score": 8.2,
+          "date": "2023-11-19T08:38:59Z",
           "commit": "c83fdbc991dd39ccd439bd2f7f34e81afc397442"
         }
       },
