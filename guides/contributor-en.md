@@ -11,8 +11,8 @@ By coming to contribute your objectives can be multiple:
 
 You may very well be **a beginner**. Even if security is not your domain **it is not a problem either** (we have a lot of topics that do not require any security knowledge).
 
-> 👀 Be careful not to make the decision on a whim. Take the time to think about at least one weekend.
-> 
+> [!IMPORTANT]
+> Be careful not to make the decision on a whim. Take the time to think about at least one weekend.
 
 ## **Where to start 🐤 ?**
 
@@ -24,6 +24,9 @@ Here's what I can recommend;
 - Read the NodeSecure articles on [dev.to](https://dev.to/nodesecure) to better understand the project.
 - Join the [Discord](https://discord.gg/4Wn8rjAtB4) to chat, **ask your questions** and simply follow the different topics.
 - Check out the task listing to see if you can already contribute: https://github.com/orgs/NodeSecure/projects/1
+
+> [!NOTE]
+> Remember to read the [CODE OF CONDUCT](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
 
 [![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
