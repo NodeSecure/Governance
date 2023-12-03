@@ -11,7 +11,8 @@ En venant contribuer vos objectifs peuvent être multiple:
 
 Vous pouvez très bien être **un(e) débutant(e)**. Même si la sécurité n'est pas votre domaine **ce n'est pas un problème non plus** (nous avons énormément des sujets qui ne requièrent aucune connaissance en sécurité).
 
-> 👀 Attention à ne pas prendre la décision sur un coup de tête. Prenez le temps de réfléchir au moins un week-end.
+> [!IMPORTANT]
+> Attention à ne pas prendre la décision sur un coup de tête. Prenez le temps de réfléchir au moins un week-end.
 
 ## Où commencer 🐤 ?
 
@@ -25,7 +26,8 @@ Voici ce que je peux vous recommander;
 - Rejoignez le [Discord](https://discord.gg/4Wn8rjAtB4) pour discuter, **poser vos questions** et tout simplement suivre les différents sujets.
 - Consultez le listing des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/1
 
-> **Note**: Pensez à lire le [CODE DE CONDUITE](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
+> [!NOTE]
+> Pensez à lire le [CODE DE CONDUITE](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
 
 [![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
