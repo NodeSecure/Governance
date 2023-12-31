@@ -1467,11 +1467,16 @@
             "score": 8.2,
             "date": "2023-12-04T15:45:31Z",
             "commit": "ffc865dd54d9f22270e0c7496e99a09af0def54d"
+          },
+          {
+            "score": 8.1,
+            "date": "2023-12-18T15:45:48Z",
+            "commit": "ffc865dd54d9f22270e0c7496e99a09af0def54d"
           }
         ],
         "current": {
-          "score": 8.1,
-          "date": "2023-12-18T15:45:48Z",
+          "score": 8,
+          "date": "2023-12-25T15:45:30Z",
           "commit": "ffc865dd54d9f22270e0c7496e99a09af0def54d"
         }
       },
