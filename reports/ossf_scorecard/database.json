@@ -91,12 +91,17 @@
             "score": 7.7,
             "date": "2023-12-05T06:42:22Z",
             "commit": "af0fce55d472b6a655f51474e47dc13331588abf"
+          },
+          {
+            "score": 7.8,
+            "date": "2023-12-12T11:05:47Z",
+            "commit": "06f2c3215b34c48e8777c408ba10d53adea0ae59"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2023-12-12T11:05:47Z",
-          "commit": "06f2c3215b34c48e8777c408ba10d53adea0ae59"
+          "score": 7.9,
+          "date": "2024-01-20T14:58:17Z",
+          "commit": "d26eafcf92d8da424bdf7cfdcbc590045d8527ee"
         }
       },
       "eslint-config": {
