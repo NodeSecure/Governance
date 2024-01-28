@@ -268,12 +268,17 @@
             "score": 7.5,
             "date": "2023-12-08T21:21:12Z",
             "commit": "d33017d09bbe97c72f8dbe4be72d96ad48190c68"
+          },
+          {
+            "score": 7.4,
+            "date": "2023-12-15T21:20:54Z",
+            "commit": "d33017d09bbe97c72f8dbe4be72d96ad48190c68"
           }
         ],
         "current": {
-          "score": 7.4,
-          "date": "2023-12-15T21:20:54Z",
-          "commit": "d33017d09bbe97c72f8dbe4be72d96ad48190c68"
+          "score": 7.5,
+          "date": "2024-01-26T21:20:29Z",
+          "commit": "98464a759ad97456252615b6816b78acea9211ea"
         }
       },
       "report": {
@@ -1287,12 +1292,17 @@
             "score": 8.2,
             "date": "2023-10-22T22:43:05Z",
             "commit": "9443b35f5ffb74219b71f132f6234459aaf35924"
+          },
+          {
+            "score": 7.6,
+            "date": "2023-12-10T22:42:43Z",
+            "commit": "9443b35f5ffb74219b71f132f6234459aaf35924"
           }
         ],
         "current": {
-          "score": 7.6,
-          "date": "2023-12-10T22:42:43Z",
-          "commit": "9443b35f5ffb74219b71f132f6234459aaf35924"
+          "score": 7.8,
+          "date": "2024-01-23T12:25:10Z",
+          "commit": "466a062a251ba53cde67c3ba1199ced2048fbac7"
         }
       },
       "domain-check": {
