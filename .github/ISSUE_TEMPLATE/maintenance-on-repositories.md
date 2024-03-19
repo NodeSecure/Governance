@@ -19,7 +19,7 @@ assignees: ''
 - [ ] [RC](https://github.com/NodeSecure/rc)
 - [ ] [flags](https://github.com/NodeSecure/flags)
 - [ ] [report](https://github.com/NodeSecure/report)
-- [ ] [domain-check](https://github.com/NodeSecure/Domain-check)
+- ~~[domain-check](https://github.com/NodeSecure/Domain-check)~~
 - [ ] [Utils](https://github.com/NodeSecure/Utils)
 - [ ] [fs-walk](https://github.com/NodeSecure/fs-walk)
 - [ ] [github](https://github.com/NodeSecure/github)
@@ -30,4 +30,4 @@ assignees: ''
 - [ ] [eslint-config](https://github.com/NodeSecure/eslint-config)
 - [ ] [npm-registry-sdk](https://github.com/NodeSecure/npm-registry-sdk)
 - [ ] [npm-security-fetcher](https://github.com/NodeSecure/npm-security-fetcher)
-- [ ] [authors](https://github.com/NodeSecure/authors)
+- ~~[authors](https://github.com/NodeSecure/authors)~~
