@@ -121,12 +121,17 @@
             "score": 7.8,
             "date": "2024-02-13T06:42:24Z",
             "commit": "3f51fedd9c0593363bdf9138efe03db02c38cacd"
+          },
+          {
+            "score": 7.7,
+            "date": "2024-04-02T06:42:09Z",
+            "commit": "062b48d12dc2b735ed10395c079570088c70decf"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2024-04-02T06:42:09Z",
-          "commit": "062b48d12dc2b735ed10395c079570088c70decf"
+          "score": 7.6,
+          "date": "2024-05-17T19:13:29Z",
+          "commit": "5fcd7a5c60adc1c02783f7ca31788d7a7e8b9141"
         }
       },
       "eslint-config": {
@@ -457,12 +462,17 @@
             "score": 8.8,
             "date": "2024-03-16T16:49:09Z",
             "commit": "e7a7927dd8213baa0e423c4093ff43e1661dc877"
+          },
+          {
+            "score": 8.9,
+            "date": "2024-04-05T18:28:39Z",
+            "commit": "67434266c4b1f5b30d463b2be9db42aaa4279c1f"
           }
         ],
         "current": {
-          "score": 8.9,
-          "date": "2024-04-05T18:28:39Z",
-          "commit": "67434266c4b1f5b30d463b2be9db42aaa4279c1f"
+          "score": 8.8,
+          "date": "2024-05-17T18:31:31Z",
+          "commit": "75646d4a7f33451d3fd2ff2a2610a031eae3e230"
         }
       },
       "cli": {
@@ -595,12 +605,17 @@
             "score": 7.9,
             "date": "2024-03-22T12:52:56Z",
             "commit": "c3ced201f86ac4bdd591c5d2a127cd9619677fc6"
+          },
+          {
+            "score": 7.8,
+            "date": "2024-04-26T12:54:09Z",
+            "commit": "c3ced201f86ac4bdd591c5d2a127cd9619677fc6"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2024-04-26T12:54:09Z",
-          "commit": "c3ced201f86ac4bdd591c5d2a127cd9619677fc6"
+          "score": 8,
+          "date": "2024-05-17T12:55:36Z",
+          "commit": "c27d6af8c1c07ff172dac9b93f988bb3fe3b89a8"
         }
       },
       "npm-security-fetcher": {
