@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633 # v4.1.2
       - name: OpenSSF Scorecard Monitor
-        uses: UlisesGascon/openssf-scorecard-monitor@468db23fdfed383552532dbb3d3bbbf0a96dcd84 # v2.0.0-beta3
+        uses: ossf/scorecard-monitor@a3a9c4cfa0684480ec5f86fa178fc22c4394b69e # v2.0.0-beta8
         with:
           scope: reports/ossf_scorecard/scope.json
           database: reports/ossf_scorecard/database.json
