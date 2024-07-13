@@ -1,4 +1,4 @@
-# Guide pour les contributeurs (français)
+# Guide pour les contributeurs (francophone)
 
 Vous êtes un(e) développeur(euse) et vous souhaitez vous **investir dans un projet open source** ? Ce guide est pour vous.
 
