@@ -1,18 +1,18 @@
 # Guide pour les contributeurs (français)
 
-Vous êtes un(e) développeur(euse) et vous souhaitez vous **investir dans un projet open source** ? Alors ce guide est pour vous.
+Vous êtes un(e) développeur(euse) et vous souhaitez vous **investir dans un projet open source** ? Ce guide est pour vous.
 
-En venant contribuer vos objectifs peuvent être multiple:
+En contribuant, vos objectifs peuvent être multiples :
 
-- Améliorer vos compétences et vos connaissances.
-- Collaborer avec d'autres individus sur un projet sérieux.
-- Contribuer à améliorer la sécurité dans l'écosystème JavaScript et Node.js.
-- Concevoir et implémenter des outils pour les devs.
+- **Améliorer vos compétences et vos connaissances**: Que ce soit sur le plan technique ou humain, chaque contribution est une opportunité d'apprentissage.
+- **Collaborer avec d'autres individus sur un projet sérieux et utile**: Rejoignez une communauté de passionnés partageant des objectifs communs et échangez des idées.
+- **Contribuer à améliorer la sécurité dans l'écosystème JavaScript et Node.js**: Votre travail peut aider à protéger des millions d'utilisateurs et à renforcer la confiance dans ces technologies.
+- **Concevoir et implémenter des outils améliorant l'expérience et le quotidien des développeurs**: Participez à la création de solutions qui facilitent la vie des développeurs.
 
-Vous pouvez très bien être **un(e) débutant(e)**. Même si la sécurité n'est pas votre domaine **ce n'est pas un problème non plus** (nous avons énormément des sujets qui ne requièrent aucune connaissance en sécurité).
+Vous pouvez très bien être **un(e) débutant(e)**. Même si la sécurité n'est pas votre domaine **ce n'est pas un problème non plus**. Nous avons de nombreux sujets qui ne requièrent aucune connaissance en sécurité.
 
-> [!IMPORTANT]
-> Attention à ne pas prendre la décision sur un coup de tête. Prenez le temps de réfléchir au moins un week-end.
+> [!CAUTION]
+> Attention à ne pas prendre cette décision sur un coup de tête. Prenez le temps de réfléchir au moins un week-end.
 
 ## Où commencer 🐤 ?
 
@@ -26,12 +26,12 @@ Voici ce que je peux vous recommander;
 - Rejoignez le [Discord](https://discord.gg/4Wn8rjAtB4) pour discuter, **poser vos questions** et tout simplement suivre les différents sujets.
 - Consultez le listing des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/1
 
-> [!NOTE]
+Il est normal, au début, de se sentir un peu perdu et de ne pas se sentir capable de contribuer sur quoi que ce soit (sachant que les sujets simples ont tendance à disparaître rapidement). Si vous êtes suffisamment motivé(e), n'hésitez pas à vous accrocher et à nous demander de l'aide.
+
+> [!IMPORTANT]
 > Pensez à lire le [CODE DE CONDUITE](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
 
 [![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
-
-Il est normal au début d'être un peu perdu et de ne pas se sentir capable de contribuer sur quoi ce soi (Sachant que les sujets simples ont une tendance à partir très rapidement). Si vous êtes assez motivés n'hésitez pas à vous accrocher et à nous demander de l'aide.
 
 ## Comment travaillons nous ?
 
