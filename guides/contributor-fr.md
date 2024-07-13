@@ -11,20 +11,22 @@ En contribuant, vos objectifs peuvent être multiples :
 
 Vous pouvez très bien être **un(e) débutant(e)**. Même si la sécurité n'est pas votre domaine **ce n'est pas un problème non plus**. Nous avons de nombreux sujets qui ne requièrent aucune connaissance en sécurité.
 
+Nous attachons également une grande importance à **mettre en avant sur les réseaux sociaux** les efforts de nos contributeurs, leur permettant ainsi de bénéficier d'une **meilleure visibilité professionnelle** (bien entendu, sauf si ce n'est pas votre souhait).
+
 > [!CAUTION]
 > Attention à ne pas prendre cette décision sur un coup de tête. Prenez le temps de réfléchir au moins un week-end.
 
 ## Où commencer 🐤 ?
 
-Il n'y a pas de réponse ultime et chacun aura des besoins et un niveau différent.
+Il n'y a pas de réponse universelle, car chaque personne a des besoins et un niveau de compétence différent.
 
-Voici ce que je peux vous recommander;
+Voici ce que nous pouvons vous recommander;
 
-- Prenez le temps de découvrir et utiliser nos outils, **lire les codes**.
-- Lisez les articles NodeSecure sur [dev.to](https://dev.to/nodesecure) pour mieux comprendre le projet.
-- Regarder [ma conférence à Paris.js](https://www.youtube.com/watch?v=hmrKI1jZLGc) où je présente NodeSecure.
+- Prenez le temps de découvrir et d'**utiliser** nos outils, et de **lire** le code.
+- Consultez les articles NodeSecure sur [dev.to](https://dev.to/nodesecure) pour mieux comprendre le projet.
+- Regarder [la conférence de Thomas.G à Paris.js](https://www.youtube.com/watch?v=hmrKI1jZLGc) où il présente le projet.
 - Rejoignez le [Discord](https://discord.gg/4Wn8rjAtB4) pour discuter, **poser vos questions** et tout simplement suivre les différents sujets.
-- Consultez le listing des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/1
+- Consultez le tableau des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/1
 
 Il est normal, au début, de se sentir un peu perdu et de ne pas se sentir capable de contribuer sur quoi que ce soit (sachant que les sujets simples ont tendance à disparaître rapidement). Si vous êtes suffisamment motivé(e), n'hésitez pas à vous accrocher et à nous demander de l'aide.
 
