@@ -28,7 +28,7 @@ Here's what I can recommend;
 > [!NOTE]
 > Remember to read the [CODE OF CONDUCT](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
 
-[![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
+[![OpenAlly](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
 It is normal at first to be a little lost and not feel able to contribute (Knowing that simple subjects have a tendency to leave very quickly). If you are motivated enough do not hesitate to hang on and ask us for help.
 

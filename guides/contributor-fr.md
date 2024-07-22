@@ -33,7 +33,7 @@ Il est normal, au début, de se sentir un peu perdu et de ne pas se sentir capab
 > [!IMPORTANT]
 > Pensez à lire le [CODE DE CONDUITE](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
 
-[![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
+[![OpenAlly](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
 ## Comment travaillons nous ?
 
