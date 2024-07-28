@@ -547,12 +547,17 @@
             "score": 8.7,
             "date": "2024-07-12T18:34:36Z",
             "commit": "b17b5d42f3a6fcc023ecacc113b00c60891955d6"
+          },
+          {
+            "score": 8.8,
+            "date": "2024-07-20T13:57:05Z",
+            "commit": "cb5dd213e4a0fb849f6f8bea1e0a991316ddc452"
           }
         ],
         "current": {
-          "score": 8.8,
-          "date": "2024-07-20T13:57:05Z",
-          "commit": "cb5dd213e4a0fb849f6f8bea1e0a991316ddc452"
+          "score": 8.7,
+          "date": "2024-07-27T21:20:31Z",
+          "commit": "526117a75c3939f7b459fe749e5e4d8bbb6582a5"
         }
       },
       "cli": {
