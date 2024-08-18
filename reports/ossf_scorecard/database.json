@@ -42,12 +42,17 @@
             "score": 8.3,
             "date": "2024-06-11T22:50:47Z",
             "commit": "b8b6cd6fc741f0dbb15dee54a99f511d70529d77"
+          },
+          {
+            "score": 7.6,
+            "date": "2024-06-18T20:40:24Z",
+            "commit": "b8b6cd6fc741f0dbb15dee54a99f511d70529d77"
           }
         ],
         "current": {
-          "score": 7.6,
-          "date": "2024-06-18T20:40:24Z",
-          "commit": "b8b6cd6fc741f0dbb15dee54a99f511d70529d77"
+          "score": 8.3,
+          "date": "2024-08-15T15:01:35Z",
+          "commit": "e0cdf180b6ce7110880b2a9bc287fc1a6509e892"
         }
       },
       "js-x-ray": {
@@ -235,12 +240,17 @@
             "score": 7.6,
             "date": "2024-06-18T02:48:54Z",
             "commit": "cf4ac04225395b4682f00d8ef45e596eaf5f0919"
+          },
+          {
+            "score": 7.8,
+            "date": "2024-07-03T22:22:06Z",
+            "commit": "24ee341dd582f178cb5524f0b6ecc4c4082310a2"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2024-07-03T22:22:06Z",
-          "commit": "24ee341dd582f178cb5524f0b6ecc4c4082310a2"
+          "score": 7.9,
+          "date": "2024-08-14T22:50:00Z",
+          "commit": "d8cb05aad74fa6cdff4daa82aab30d1f1a196891"
         }
       },
       "npm-tarball-license-parser": {
@@ -418,12 +428,17 @@
             "score": 7.4,
             "date": "2024-07-12T21:24:47Z",
             "commit": "9e94e3e0a7e1257cdfaedc42f910452f8c74d914"
+          },
+          {
+            "score": 7.6,
+            "date": "2024-08-10T11:58:58Z",
+            "commit": "224ec62a69a8f537255ad280df05ec41a5ccadcf"
           }
         ],
         "current": {
-          "score": 7.6,
-          "date": "2024-08-10T11:58:58Z",
-          "commit": "224ec62a69a8f537255ad280df05ec41a5ccadcf"
+          "score": 7.8,
+          "date": "2024-08-16T21:24:25Z",
+          "commit": "5ae465d67395a16a7d206378502150e19d250ade"
         }
       },
       "report": {
@@ -730,12 +745,17 @@
             "score": 7.9,
             "date": "2024-06-14T12:57:08Z",
             "commit": "c27d6af8c1c07ff172dac9b93f988bb3fe3b89a8"
+          },
+          {
+            "score": 7.6,
+            "date": "2024-06-21T12:56:29Z",
+            "commit": "c27d6af8c1c07ff172dac9b93f988bb3fe3b89a8"
           }
         ],
         "current": {
-          "score": 7.6,
-          "date": "2024-06-21T12:56:29Z",
-          "commit": "c27d6af8c1c07ff172dac9b93f988bb3fe3b89a8"
+          "score": 8.2,
+          "date": "2024-08-16T12:58:52Z",
+          "commit": "66e25ffb27b98ded40dd80829156254b740a7279"
         }
       },
       "npm-security-fetcher": {
@@ -799,12 +819,17 @@
             "score": 7.6,
             "date": "2024-06-05T11:36:29Z",
             "commit": "2ebacb30f5c504e1bcb3bb32ca93cf18335d7d07"
+          },
+          {
+            "score": 7.3,
+            "date": "2024-06-19T11:35:38Z",
+            "commit": "2ebacb30f5c504e1bcb3bb32ca93cf18335d7d07"
           }
         ],
         "current": {
-          "score": 7.3,
-          "date": "2024-06-19T11:35:38Z",
-          "commit": "2ebacb30f5c504e1bcb3bb32ca93cf18335d7d07"
+          "score": 7.5,
+          "date": "2024-08-14T11:36:22Z",
+          "commit": "4b9840215ea3925e3aa5702e35c583a4ea97c3bd"
         }
       },
       "size-satisfies": {
@@ -1220,12 +1245,17 @@
             "score": 7.9,
             "date": "2024-06-16T08:40:09Z",
             "commit": "c52aae7a4c17f27181a6c834b25e3c3efa77065c"
+          },
+          {
+            "score": 8.1,
+            "date": "2024-06-27T09:47:25Z",
+            "commit": "b79452564b9382663a566b4f169b19c4da07b994"
           }
         ],
         "current": {
-          "score": 8.1,
-          "date": "2024-06-27T09:47:25Z",
-          "commit": "b79452564b9382663a566b4f169b19c4da07b994"
+          "score": 8.2,
+          "date": "2024-08-11T20:08:11Z",
+          "commit": "ce04d6cb61ef6cbec3be87a29323fa4d1ea81eb3"
         }
       },
       "flags": {
@@ -1319,12 +1349,17 @@
             "score": 7.8,
             "date": "2024-04-19T16:34:29Z",
             "commit": "3e5ed0c940f8f7de030edb42e4d16eb640296c8b"
+          },
+          {
+            "score": 7.5,
+            "date": "2024-06-21T16:35:04Z",
+            "commit": "3e5ed0c940f8f7de030edb42e4d16eb640296c8b"
           }
         ],
         "current": {
-          "score": 7.5,
-          "date": "2024-06-21T16:35:04Z",
-          "commit": "3e5ed0c940f8f7de030edb42e4d16eb640296c8b"
+          "score": 7.7,
+          "date": "2024-08-16T16:39:55Z",
+          "commit": "5c78bc47968eba0d97c907b27a90ce485c38c209"
         }
       },
       "scanner": {
@@ -1453,12 +1488,17 @@
             "score": 8.7,
             "date": "2024-07-11T18:32:43Z",
             "commit": "54450b09fc3625855376a975f1fd4da1188cb15d"
+          },
+          {
+            "score": 8.8,
+            "date": "2024-07-18T18:33:41Z",
+            "commit": "8bf6264682ffe36f48028da2a5a3ea89f8463f15"
           }
         ],
         "current": {
-          "score": 8.8,
-          "date": "2024-07-18T18:33:41Z",
-          "commit": "8bf6264682ffe36f48028da2a5a3ea89f8463f15"
+          "score": 8.7,
+          "date": "2024-08-15T18:34:07Z",
+          "commit": "d38d8d8089d1259d2a81e1f561bad404858bb68e"
         }
       },
       "ci-action": {
@@ -1532,12 +1572,17 @@
             "score": 6.8,
             "date": "2024-04-28T17:46:12Z",
             "commit": "418bab00837e1100cf5e878e1b4237d6dd82db29"
+          },
+          {
+            "score": 6.5,
+            "date": "2024-06-23T17:46:06Z",
+            "commit": "418bab00837e1100cf5e878e1b4237d6dd82db29"
           }
         ],
         "current": {
-          "score": 6.5,
-          "date": "2024-06-23T17:46:06Z",
-          "commit": "418bab00837e1100cf5e878e1b4237d6dd82db29"
+          "score": 6.6,
+          "date": "2024-08-15T19:27:23Z",
+          "commit": "4a2c8acd72a6f8bb3817755a7286de3f13170a27"
         }
       },
       "authors": {
@@ -1720,12 +1765,17 @@
             "score": 7.6,
             "date": "2024-06-16T03:30:50Z",
             "commit": "103747b3131e898f9abe1cd2aac7988d9afffa8f"
+          },
+          {
+            "score": 7.7,
+            "date": "2024-07-02T20:21:22Z",
+            "commit": "7afcc99b454e3a05f7410ab658914399309014fe"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2024-07-02T20:21:22Z",
-          "commit": "7afcc99b454e3a05f7410ab658914399309014fe"
+          "score": 8.1,
+          "date": "2024-08-15T14:04:18Z",
+          "commit": "e5875b6be1affeb4d6c7990e2d329bdbcf498392"
         }
       },
       "npm-registry-sdk": {
@@ -1992,12 +2042,17 @@
             "score": 7.7,
             "date": "2024-06-02T22:42:37Z",
             "commit": "049cfc900c6e35e563929ff6918d02cf1f5fc22b"
+          },
+          {
+            "score": 7.8,
+            "date": "2024-08-05T13:38:50Z",
+            "commit": "09dd4c5f9d05086361dc3070b22ffd9c78f187e2"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2024-08-05T13:38:50Z",
-          "commit": "09dd4c5f9d05086361dc3070b22ffd9c78f187e2"
+          "score": 7.9,
+          "date": "2024-08-15T11:08:39Z",
+          "commit": "6ef704f54fb5d7c33bf66056eae480242901b96e"
         }
       },
       "domain-check": {
@@ -2237,12 +2292,17 @@
             "score": 7.7,
             "date": "2024-06-10T15:45:33Z",
             "commit": "c3331f93fa6f0eb178db62b61c88815dfd2dfd8e"
+          },
+          {
+            "score": 7.9,
+            "date": "2024-07-31T08:29:16Z",
+            "commit": "4582ce27e46053f864a7d0125a14a1920f8aef57"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2024-07-31T08:29:16Z",
-          "commit": "4582ce27e46053f864a7d0125a14a1920f8aef57"
+          "score": 8.2,
+          "date": "2024-08-15T11:09:21Z",
+          "commit": "900482d758646a910194bfb503be9b43a26ae1e2"
         }
       },
       "estree-ast-utils": {
