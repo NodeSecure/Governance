@@ -52,12 +52,17 @@
             "score": 8.3,
             "date": "2024-08-15T15:01:35Z",
             "commit": "e0cdf180b6ce7110880b2a9bc287fc1a6509e892"
+          },
+          {
+            "score": 8.4,
+            "date": "2024-09-03T20:41:05Z",
+            "commit": "e783a7585b2dc6dd33642d02be88ca69b89760a8"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2024-09-03T20:41:05Z",
-          "commit": "e783a7585b2dc6dd33642d02be88ca69b89760a8"
+          "score": 8.5,
+          "date": "2024-10-01T20:42:25Z",
+          "commit": "f6433b5f4c75cd506009c6b523dff4613b4109b1"
         }
       },
       "js-x-ray": {
@@ -760,12 +765,17 @@
             "score": 8.2,
             "date": "2024-08-16T12:58:52Z",
             "commit": "66e25ffb27b98ded40dd80829156254b740a7279"
+          },
+          {
+            "score": 8.3,
+            "date": "2024-09-06T13:00:49Z",
+            "commit": "34084edc4be5f2f425c22ad74c6f58d21d4d6e2a"
           }
         ],
         "current": {
-          "score": 8.3,
-          "date": "2024-09-06T13:00:49Z",
-          "commit": "34084edc4be5f2f425c22ad74c6f58d21d4d6e2a"
+          "score": 8.4,
+          "date": "2024-10-04T13:03:30Z",
+          "commit": "3b9a3c3b2b0079595e9460ae792bcef1e4696664"
         }
       },
       "npm-security-fetcher": {
@@ -1369,11 +1379,16 @@
             "score": 7.7,
             "date": "2024-08-16T16:39:55Z",
             "commit": "5c78bc47968eba0d97c907b27a90ce485c38c209"
+          },
+          {
+            "score": 7.8,
+            "date": "2024-08-23T16:38:30Z",
+            "commit": "f6a5f107dcbe1f21c67986c73db243fdd1dc662f"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2024-08-23T16:38:30Z",
+          "score": 7.7,
+          "date": "2024-10-04T16:41:09Z",
           "commit": "f6a5f107dcbe1f21c67986c73db243fdd1dc662f"
         }
       },
