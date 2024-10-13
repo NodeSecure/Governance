@@ -443,11 +443,16 @@
             "score": 7.6,
             "date": "2024-08-10T11:58:58Z",
             "commit": "224ec62a69a8f537255ad280df05ec41a5ccadcf"
+          },
+          {
+            "score": 7.8,
+            "date": "2024-08-16T21:24:25Z",
+            "commit": "5ae465d67395a16a7d206378502150e19d250ade"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2024-08-16T21:24:25Z",
+          "score": 7.7,
+          "date": "2024-10-11T21:28:50Z",
           "commit": "5ae465d67395a16a7d206378502150e19d250ade"
         }
       },
@@ -1815,12 +1820,17 @@
             "score": 8.2,
             "date": "2024-08-18T03:30:49Z",
             "commit": "74fce9208beeb2cbba370ec1e101ec6d08bf6003"
+          },
+          {
+            "score": 8.3,
+            "date": "2024-09-08T03:33:19Z",
+            "commit": "1debea1b364acff94aedec8a10bbbe9ae82b32d0"
           }
         ],
         "current": {
-          "score": 8.3,
-          "date": "2024-09-08T03:33:19Z",
-          "commit": "1debea1b364acff94aedec8a10bbbe9ae82b32d0"
+          "score": 8.2,
+          "date": "2024-10-06T03:40:25Z",
+          "commit": "cce0309e4ef23d80930abb366dfcb2ddd213cd14"
         }
       },
       "npm-registry-sdk": {
@@ -1904,11 +1914,16 @@
             "score": 8.2,
             "date": "2024-07-05T22:29:22Z",
             "commit": "0267ecf20501a72f589017175d12da16b0fc9160"
+          },
+          {
+            "score": 8.4,
+            "date": "2024-07-15T15:16:22Z",
+            "commit": "161a638e028ce99bc5facf307c02a3fcdbb3eb4c"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2024-07-15T15:16:22Z",
+          "score": 7.9,
+          "date": "2024-10-06T18:39:54Z",
           "commit": "161a638e028ce99bc5facf307c02a3fcdbb3eb4c"
         }
       },
@@ -2102,11 +2117,16 @@
             "score": 8.1,
             "date": "2024-09-08T22:42:43Z",
             "commit": "6ef704f54fb5d7c33bf66056eae480242901b96e"
+          },
+          {
+            "score": 7.9,
+            "date": "2024-09-15T22:42:51Z",
+            "commit": "6ef704f54fb5d7c33bf66056eae480242901b96e"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2024-09-15T22:42:51Z",
+          "score": 7.8,
+          "date": "2024-10-06T22:42:46Z",
           "commit": "6ef704f54fb5d7c33bf66056eae480242901b96e"
         }
       },
