@@ -597,11 +597,16 @@
             "score": 8.6,
             "date": "2024-08-02T18:33:04Z",
             "commit": "c7334edfe3525a95da13ec5fe6a112734d6e1888"
+          },
+          {
+            "score": 8.2,
+            "date": "2024-10-25T18:37:09Z",
+            "commit": "c39251ecacb959550a9b140c5a710dbc6351efa3"
           }
         ],
         "current": {
-          "score": 8.2,
-          "date": "2024-10-25T18:37:09Z",
+          "score": 7.9,
+          "date": "2024-11-01T18:36:51Z",
           "commit": "c39251ecacb959550a9b140c5a710dbc6351efa3"
         }
       },
@@ -780,12 +785,17 @@
             "score": 8.3,
             "date": "2024-09-06T13:00:49Z",
             "commit": "34084edc4be5f2f425c22ad74c6f58d21d4d6e2a"
+          },
+          {
+            "score": 8.4,
+            "date": "2024-10-04T13:03:30Z",
+            "commit": "3b9a3c3b2b0079595e9460ae792bcef1e4696664"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2024-10-04T13:03:30Z",
-          "commit": "3b9a3c3b2b0079595e9460ae792bcef1e4696664"
+          "score": 8.6,
+          "date": "2024-11-01T13:02:26Z",
+          "commit": "14cb3f4af323acbad5fac81a6eeb0b27a2747cdc"
         }
       },
       "npm-security-fetcher": {
