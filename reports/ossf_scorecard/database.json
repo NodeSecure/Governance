@@ -2417,12 +2417,17 @@
             "score": 7.9,
             "date": "2025-01-03T11:19:54Z",
             "commit": "b11a9ed1825d217b7d29c3531709cb52e5c0a86b"
+          },
+          {
+            "score": 8,
+            "date": "2025-01-05T22:42:35Z",
+            "commit": "b11a9ed1825d217b7d29c3531709cb52e5c0a86b"
           }
         ],
         "current": {
-          "score": 8,
-          "date": "2025-01-05T22:42:35Z",
-          "commit": "b11a9ed1825d217b7d29c3531709cb52e5c0a86b"
+          "score": 8.1,
+          "date": "2025-01-16T21:26:13Z",
+          "commit": "0d41d20d5b63e9e9240ca2b97f183aa4c73d96fb"
         }
       },
       "domain-check": {
