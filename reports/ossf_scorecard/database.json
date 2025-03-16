@@ -211,12 +211,17 @@
             "score": 7.3,
             "date": "2025-01-07T06:47:32Z",
             "commit": "fae3db18741659324d80d6828269a2a61a6d1eef"
+          },
+          {
+            "score": 7.5,
+            "date": "2025-03-08T22:19:45Z",
+            "commit": "dcb991b27b43840930fda4c07a2b9c08f580c745"
           }
         ],
         "current": {
-          "score": 7.5,
-          "date": "2025-03-08T22:19:45Z",
-          "commit": "dcb991b27b43840930fda4c07a2b9c08f580c745"
+          "score": 7.6,
+          "date": "2025-03-11T06:49:04Z",
+          "commit": "546033a0dffc7b6ccf38a350f5a5a4ca18ceff7e"
         }
       },
       "eslint-config": {
@@ -1828,11 +1833,16 @@
             "score": 8.3,
             "date": "2025-02-13T18:38:10Z",
             "commit": "51e2937e6d10d937147ebe9a721ac4f88d3ea511"
+          },
+          {
+            "score": 8.4,
+            "date": "2025-02-21T11:59:45Z",
+            "commit": "794eaf268002f52bcb7eaa8f6ca5555ee6d84ff3"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2025-02-21T11:59:45Z",
+          "score": 8.3,
+          "date": "2025-03-13T18:39:42Z",
           "commit": "794eaf268002f52bcb7eaa8f6ca5555ee6d84ff3"
         }
       },
