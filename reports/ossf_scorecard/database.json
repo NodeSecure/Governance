@@ -1129,11 +1129,16 @@
             "score": 8,
             "date": "2025-04-02T11:36:51Z",
             "commit": "f0e38a8254a0c88fead68b9029901eccff0187cc"
+          },
+          {
+            "score": 7.7,
+            "date": "2025-04-09T11:36:32Z",
+            "commit": "f0e38a8254a0c88fead68b9029901eccff0187cc"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2025-04-09T11:36:32Z",
+          "score": 7.6,
+          "date": "2025-04-16T11:36:44Z",
           "commit": "f0e38a8254a0c88fead68b9029901eccff0187cc"
         }
       },
@@ -2952,12 +2957,17 @@
             "score": 8.1,
             "date": "2025-02-24T15:45:59Z",
             "commit": "74bda1f5bdb83e61cfa33c23956745b1775eacfc"
+          },
+          {
+            "score": 8.2,
+            "date": "2025-03-24T15:46:14Z",
+            "commit": "d796e85eff61104ca0b1c36d51f3221cb15344ef"
           }
         ],
         "current": {
-          "score": 8.2,
-          "date": "2025-03-24T15:46:14Z",
-          "commit": "d796e85eff61104ca0b1c36d51f3221cb15344ef"
+          "score": 8.1,
+          "date": "2025-04-14T15:46:12Z",
+          "commit": "d844d298e413dbe3a002012d4107b681bdec9e91"
         }
       },
       "estree-ast-utils": {
