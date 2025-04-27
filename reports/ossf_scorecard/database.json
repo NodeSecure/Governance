@@ -1923,12 +1923,17 @@
             "score": 8.2,
             "date": "2025-03-27T18:40:53Z",
             "commit": "794eaf268002f52bcb7eaa8f6ca5555ee6d84ff3"
+          },
+          {
+            "score": 8.1,
+            "date": "2025-04-10T18:37:33Z",
+            "commit": "794eaf268002f52bcb7eaa8f6ca5555ee6d84ff3"
           }
         ],
         "current": {
-          "score": 8.1,
-          "date": "2025-04-10T18:37:33Z",
-          "commit": "794eaf268002f52bcb7eaa8f6ca5555ee6d84ff3"
+          "score": 8.4,
+          "date": "2025-04-26T13:11:55Z",
+          "commit": "fd7f15a20f98ac86de615c9522718f6b8be488d1"
         }
       },
       "ci-action": {
@@ -2652,12 +2657,17 @@
             "score": 8.1,
             "date": "2025-03-23T22:43:57Z",
             "commit": "3abe2ebbad1fcdd228cb5a558e85f051e164c9f5"
+          },
+          {
+            "score": 7.9,
+            "date": "2025-04-06T22:43:36Z",
+            "commit": "3abe2ebbad1fcdd228cb5a558e85f051e164c9f5"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2025-04-06T22:43:36Z",
-          "commit": "3abe2ebbad1fcdd228cb5a558e85f051e164c9f5"
+          "score": 7.7,
+          "date": "2025-04-22T01:09:34Z",
+          "commit": "633738ec68c5a5490bd6def8745849d9c0236991"
         }
       },
       "domain-check": {
