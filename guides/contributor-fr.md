@@ -26,7 +26,8 @@ Voici ce que nous pouvons vous recommander;
 - Consultez les articles NodeSecure sur [dev.to](https://dev.to/nodesecure) pour mieux comprendre le projet.
 - Regarder [la conférence de Thomas.G à Paris.js](https://www.youtube.com/watch?v=hmrKI1jZLGc) où il présente le projet.
 - Rejoignez le [Discord](https://discord.gg/4Wn8rjAtB4) pour discuter, **poser vos questions** et tout simplement suivre les différents sujets.
-- Consultez le tableau des tâches pour voir si vous pouvez déjà contribuer: https://github.com/orgs/NodeSecure/projects/1
+- Consultez le [glossaire](../GLOSSARY.md) pour vous familiariser avec le jargon du projet.
+- Chercher les issues avec le label '**good first issue**' (attention, celles ne sont que le haut de l'iceberg).
 
 Il est normal, au début, de se sentir un peu perdu et de ne pas se sentir capable de contribuer sur quoi que ce soit (sachant que les sujets simples ont tendance à disparaître rapidement). Si vous êtes suffisamment motivé(e), n'hésitez pas à vous accrocher et à nous demander de l'aide.
 
