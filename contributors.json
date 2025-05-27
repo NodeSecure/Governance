@@ -1,0 +1,86 @@
+{
+  "core": [
+    {
+      "name": "Thomas",
+      "github": "fraxken",
+      "company": {
+        "name": "Asynchronous", 
+        "title": "Node.js freelance"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/thomas-gentilhomme/",
+        "x": "https://x.com/fraxken"
+      }
+    },
+      {
+      "name": "Pierre",
+      "github": "PierreDemailly",
+      "company": {
+        "name": "MyUnisoft",
+        "link": "https://myunisoft.fr/",
+        "title": "Développeur Node.js"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/pierre-demailly/"
+      }
+    },
+    {
+      "name": "Tony",
+      "github": "tony-go",
+      "company": {
+        "title": "System Engineer & Security Researcher"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/tonygorez/",
+        "personal": "https://tonygo.tech/",
+        "x": "https://x.com/tonygo_"
+      }
+    },
+    {
+      "name": "Antoine",
+      "github": "antoine-coulon",
+      "company": {
+        "name": "Seanime Consulting",
+        "title": "Freelance"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/antoine-coulon-c9/",
+        "x": "https://x.com/c9antoine"
+      }
+    },
+    {
+      "name": "Vincent",
+      "github": "Kawacrepe",
+      "company": {
+        "title": "Développeur full-stack"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/vincentdhennin/"
+      }
+    },
+    {
+      "name": "Mehdi",
+      "github": "im-codebreaker",
+      "company": {
+        "name": "Antidots",
+        "link": "https://www.linkedin.com/company/antidots-positive-technologies-for-all/",
+        "title": "Front-end developer"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/mehdi-bouchard/"
+      }
+    }
+  ],
+  "committers": [
+    {
+      "name": "Fabrice",
+      "github": "fabnguess",
+      "company": {
+        "title": "Back-end developer"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/kouadio-fabrice-n-guessan-59395b108/"
+      }
+    }
+  ]
+}
