@@ -228,22 +228,6 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Rossb0b">
-        <img src="https://github.com/Rossb0b.png?s=200" width="200px;" alt="nicolas-hallaert"/>
-        <br />
-        <div>
-          <sub><b>Nicolas</b></sub>
-        </div>
-      </a>
-      <div>
-        <sup>Node.js developer at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sup>
-      </div>
-      <a target="_blank" href="https://www.linkedin.com/in/nicolas-hallaert/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br />
-    </td>
-    <td align="center">
       <a href="https://github.com/fabnguess">
         <img src="https://github.com/fabnguess.png?s=200" width="200px;" alt="Kouadio Fabrice Nguessan"/>
         <br />
@@ -257,19 +241,6 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
       <a target="_blank" href="https://www.linkedin.com/in/kouadio-fabrice-n-guessan-59395b108/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/jean-michelet">
-        <img src="https://github.com/jean-michelet.png?s=200" width="200px;" alt="Jean Michelet"/>
-        <br />
-        <div>
-          <sub><b>Jean</b></sub>
-        </div>
-      </a>
-      <div>
-        <sup>Node.js developer</sup>
-      </div>
       <br />
     </td>
   </tr>
