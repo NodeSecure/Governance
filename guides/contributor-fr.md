@@ -22,7 +22,7 @@ Il n'y a pas de réponse universelle, car chaque personne a des besoins et un ni
 
 Voici ce que nous pouvons vous recommander;
 
-- Prenez le temps de découvrir et d'**utiliser** nos outils, et de **lire** le code.
+- Prenez le temps de découvrir et d'**utiliser** nos outils, de **lire** le code et la [cartographie](./cartography-fr.md) du projet.
 - Consultez les articles NodeSecure sur [dev.to](https://dev.to/nodesecure) pour mieux comprendre le projet.
 - Regarder [la conférence de Thomas.G à Paris.js](https://www.youtube.com/watch?v=hmrKI1jZLGc) où il présente le projet.
 - Rejoignez le [Discord](https://discord.gg/4Wn8rjAtB4) pour discuter, **poser vos questions** et tout simplement suivre les différents sujets.
