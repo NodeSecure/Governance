@@ -24,7 +24,7 @@ Here's what I can recommend;
 - Read the NodeSecure articles on [dev.to](https://dev.to/nodesecure) to better understand the project.
 - Join the [Discord](https://discord.gg/4Wn8rjAtB4) to chat, **ask your questions** and simply follow the different topics.
 - Consult the [glossary](../GLOSSARY.md) to familiarize yourself with the project jargon.
-- Look for issues with the label '**good first issue**' (be aware that those are just the tip of the iceberg).
+- Look for issues with the label [good first issue](https://github.com/search?q=org%3ANodeSecure++++++label%3A%22good+first+issue%22&type=issues&state=open) (be aware that those are just the tip of the iceberg).
 
 > [!NOTE]
 > Remember to read the [CODE OF CONDUCT](https://github.com/NodeSecure/Governance/blob/main/CODE_OF_CONDUCT.md)
