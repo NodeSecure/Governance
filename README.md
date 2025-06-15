@@ -117,15 +117,18 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/fraxken">
-        <img src="https://github.com/fraxken.png?s=200" width="200px;" alt="fraxken"/>
+      <a href="https://github.com/fraxken" target="_blank"></a>
+        <img src="https://github.com/fraxken.png?s=200" width="200px;" alt="Thomas"/>
         <br />
         <div>
           <sub><b>Thomas</b></sub>
         </div>
       </a>
       <div>
-        <sup>API / Node.js lead at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sup>
+        <sup>
+          Node.js freelance  at
+          <a target="_blank" href="#">Asynchronous</a>
+        </sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/thomas-gentilhomme/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -133,18 +136,39 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
       <a target="_blank" href="https://x.com/fraxken">
         <img src="https://img.shields.io/badge/fraxken-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000" />
       </a>
-      <br>
+      <br />
     </td>
     <td align="center">
-      <a href="https://github.com/tony-go">
-        <img src="https://github.com/tony-go.png?s=200" width="200px;" alt="tony-go"/>
+      <a href="https://github.com/PierreDemailly" target="_blank"></a>
+        <img src="https://github.com/PierreDemailly.png?s=200" width="200px;" alt="Pierre"/>
+        <br />
+        <div>
+          <sub><b>Pierre</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>
+          Node.js Developer  at
+          <a target="_blank" href="https://myunisoft.fr/">MyUnisoft</a>
+        </sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/pierre-demailly/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://tonygo.tech/" target="_blank">
+        <img src="https://github.com/tony-go.png?s=200" width="200px;" alt="Tony"/>
         <br />
         <div>
           <sub><b>Tony</b></sub>
         </div>
       </a>
       <div>
-        <sup>Senior Systems Engineer at <a target="_blank" href="https://www.linkedin.com/company/postman-platform/">Postman</a></sup>
+        <sup>
+          System Engineer &amp; Security Researcher
+        </sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/tonygorez/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -152,70 +176,67 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
       <a target="_blank" href="https://x.com/tonygo_">
         <img src="https://img.shields.io/badge/tonygo_-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000" />
       </a>
+      <br />
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td align="center">
-      <a href="https://github.com/antoine-coulon">
-        <img src="https://github.com/antoine-coulon.png?s=200" width="200px;" alt="antoine-coulon"/>
+      <a href="https://github.com/antoine-coulon" target="_blank"></a>
+        <img src="https://github.com/antoine-coulon.png?s=200" width="200px;" alt="Antoine"/>
         <br />
         <div>
           <sub><b>Antoine</b></sub>
         </div>
       </a>
       <div>
-        <sup>Lead Software Engineer at <a href="https://www.linkedin.com/company/evryg-it/" target="_blank">Evryg</a></sup>
+        <sup>
+          Freelance  at
+          <a target="_blank" href="#">Seanine Consulting</a>
+        </sup>
       </div>
-      <a target="_blank" href="https://www.linkedin.com/in/antoine-coulon-b29934153/">
+      <a target="_blank" href="https://www.linkedin.com/in/antoine-coulon-c9/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a target="_blank" href="https://x.com/c9antoine">
         <img src="https://img.shields.io/badge/c9antoine-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000" />
       </a>
+      <br />
     </td>
-  </tr>
-  <tr> 
     <td align="center">
-      <a href="https://github.com/Kawacrepe">
-        <img src="https://github.com/Kawacrepe.png?s=200" width="200px;" alt="Kawacrepe"/>
+      <a href="https://github.com/Kawacrepe" target="_blank"></a>
+        <img src="https://github.com/Kawacrepe.png?s=200" width="200px;" alt="Vincent"/>
         <br />
         <div>
           <sub><b>Vincent</b></sub>
         </div>
       </a>
       <div>
-        <sup>Full-stack Engineer</sup>
+        <sup>
+          Développeur full-stack
+        </sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/vincentdhennin/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
+      <br />
     </td>
     <td align="center">
-      <a href="https://github.com/im-codebreaker">
-        <img src="https://github.com/im-codebreaker.png?s=200" width="200px;" alt="im-codebreaker"/>
+      <a href="https://github.com/im-codebreaker" target="_blank"></a>
+        <img src="https://github.com/im-codebreaker.png?s=200" width="200px;" alt="Mehdi"/>
         <br />
         <div>
           <sub><b>Mehdi</b></sub>
         </div>
       </a>
       <div>
-        <sup>Front-end developer at <a target="_blank" href="https://antidots.com/">Antidots</a></sup>
+        <sup>
+          Front-end developer  at
+          <a target="_blank" href="https://www.linkedin.com/company/antidots-positive-technologies-for-all/">Antidots</a>
+        </sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/mehdi-bouchard/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/PierreDemailly">
-        <img src="https://github.com/PierreDemailly.png?s=200" width="200px;" alt="PierreDemailly"/>
-        <br />
-        <div>
-          <sub><b>Pierre</b></sub>
-        </div>
-      </a>
-      <div>
-        <sup>Node.js developer at <a target="_blank" href="https://www.linkedin.com/company/myunisoft/">MyUnisoft</a></sup>
-      </div>
-      <a target="_blank" href="https://www.linkedin.com/in/pierre-demailly/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <br />

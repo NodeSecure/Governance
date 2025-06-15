@@ -4,12 +4,12 @@
       "name": "Thomas",
       "github": "fraxken",
       "company": {
-        "name": "Asynchronous", 
+        "name": "Asynchronous",
         "title": "Node.js freelance"
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/thomas-gentilhomme/",
-        "x": "https://x.com/fraxken"
+        "x": "fraxken"
       }
     },
       {
@@ -18,7 +18,7 @@
       "company": {
         "name": "MyUnisoft",
         "link": "https://myunisoft.fr/",
-        "title": "Développeur Node.js"
+        "title": "Node.js Developer"
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/pierre-demailly/"
@@ -33,7 +33,7 @@
       "links": {
         "linkedin": "https://www.linkedin.com/in/tonygorez/",
         "personal": "https://tonygo.tech/",
-        "x": "https://x.com/tonygo_"
+        "x": "tonygo_"
       }
     },
     {
@@ -45,7 +45,7 @@
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/antoine-coulon-c9/",
-        "x": "https://x.com/c9antoine"
+        "x": "c9antoine"
       }
     },
     {
