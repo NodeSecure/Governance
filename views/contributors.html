@@ -1,0 +1,37 @@
+<table>
+  <tr>
+    [[ for (const contributor of z.contributors) { ]]
+    <td align="center">
+      [[ if (contributor.links.personal) { ]]
+      <a href="[[=contributor.links.personal]]" target="_blank">
+      [[ } else { ]]
+      <a href="https://github.com/[[=contributor.github]]" target="_blank"></a>
+      [[ }]]
+        <img src="https://github.com/[[=contributor.github]].png?s=200" width="200px;" alt="[[=contributor.name]]"/>
+        <br />
+        <div>
+          <sub><b>[[=contributor.name]]</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>
+          [[=contributor.company.title]] [[ if (contributor.company.name) { ]] at
+          <a target="_blank" href="[[=contributor.company.link ?? '#']]">[[=contributor.company.name]]</a>
+          [[ } ]]
+        </sup>
+      </div>
+      [[ if (contributor.links.linkedin) { ]]
+      <a target="_blank" href="[[=contributor.links.linkedin]]">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      [[ } ]]
+      [[ if (contributor.links.x) { ]]
+      <a target="_blank" href="https://x.com/[[=contributor.links.x]]">
+        <img src="https://img.shields.io/badge/[[=contributor.links.x]]-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000" />
+      </a>
+      [[ } ]]
+      <br />
+    </td>
+    [[ } ]]
+  </tr>
+</table>
