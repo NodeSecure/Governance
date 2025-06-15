@@ -2053,12 +2053,17 @@
             "score": 7.6,
             "date": "2025-05-31T13:01:17Z",
             "commit": "c9feb95c4005f970c3a8a1f40ec55f2cf08adddc"
+          },
+          {
+            "score": 7.7,
+            "date": "2025-06-05T18:55:31Z",
+            "commit": "97a36b523aa9b22900cd4ad822aa6a083e254121"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2025-06-05T18:55:31Z",
-          "commit": "97a36b523aa9b22900cd4ad822aa6a083e254121"
+          "score": 7.9,
+          "date": "2025-06-14T09:34:05Z",
+          "commit": "9eb15e233b85546b06bbcb10d66f98a71deba7eb"
         }
       },
       "ci-action": {
@@ -2410,12 +2415,17 @@
             "score": 8.1,
             "date": "2025-04-06T03:44:25Z",
             "commit": "781a0f60fc49b15fc1d45a895135acd4d6624040"
+          },
+          {
+            "score": 7.9,
+            "date": "2025-06-01T04:07:57Z",
+            "commit": "09894f746358700474cac8a4004f3fb781716138"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2025-06-01T04:07:57Z",
-          "commit": "09894f746358700474cac8a4004f3fb781716138"
+          "score": 8,
+          "date": "2025-06-08T04:02:33Z",
+          "commit": "3adb56e31ef2cc1cfa7f29cbfadb08d5f61e3761"
         }
       },
       "npm-registry-sdk": {
@@ -3368,12 +3378,17 @@
             "score": 7.9,
             "date": "2025-04-11T18:43:48Z",
             "commit": "f1750bfcb295d8c974b4e9de99be7d9d7cca4bd4"
+          },
+          {
+            "score": 7.7,
+            "date": "2025-05-30T18:45:40Z",
+            "commit": "206054e71bfdf0f10840e5591c296c03eca40ce5"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2025-05-30T18:45:40Z",
-          "commit": "206054e71bfdf0f10840e5591c296c03eca40ce5"
+          "score": 7.8,
+          "date": "2025-06-13T18:46:23Z",
+          "commit": "7cfde9e2c13b6e3fe09647cb09e79adab01c3564"
         }
       }
     }
