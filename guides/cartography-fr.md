@@ -62,11 +62,16 @@ Ceux-ci cumuleront donc majoritairement l'attention et l'énergie des contribute
 │   ├── @nodesecure/npm-types
 │   ├── @nodesecure/rc
 │   ├── @nodesecure/tarball
+│   ├── @nodesecure/github
+│   ├── @nodesecure/gitlab
+│   ├── @nodesecure/fs-walk
+│   ├── @nodesecure/flags
 │   └── @nodesecure/tree-walker
 │
 ├── js-x-ray (mono-repo)
 │   ├── @nodesecure/js-x-ray
 │   ├── @nodesecure/estree-ast-utils
+│   ├── @nodesecure/tracer
 │   ├── @nodesecure/sec-literal
 │   └── @nodesecure/ts-source-parser
 ```
