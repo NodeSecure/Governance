@@ -117,12 +117,17 @@
             "score": 7.9,
             "date": "2025-05-27T20:44:47Z",
             "commit": "d3164867784d9f32a4157948d3e37506a61323d3"
+          },
+          {
+            "score": 8,
+            "date": "2025-06-03T20:43:54Z",
+            "commit": "6756155248679277f9c62ae85f91fe8e14972ef9"
           }
         ],
         "current": {
-          "score": 8,
-          "date": "2025-06-03T20:43:54Z",
-          "commit": "6756155248679277f9c62ae85f91fe8e14972ef9"
+          "score": 8.1,
+          "date": "2025-06-17T20:45:42Z",
+          "commit": "ce3864aba26b1324526a581423ff6413a9d93e93"
         }
       },
       "js-x-ray": {
@@ -256,12 +261,17 @@
             "score": 7.5,
             "date": "2025-05-10T14:26:53Z",
             "commit": "de2b7c048a046e812e280a94d5a7025b12787fa6"
+          },
+          {
+            "score": 7.6,
+            "date": "2025-05-20T06:52:59Z",
+            "commit": "de2b7c048a046e812e280a94d5a7025b12787fa6"
           }
         ],
         "current": {
-          "score": 7.6,
-          "date": "2025-05-20T06:52:59Z",
-          "commit": "de2b7c048a046e812e280a94d5a7025b12787fa6"
+          "score": 7.7,
+          "date": "2025-06-20T20:44:59Z",
+          "commit": "3b4aa66cab1fc3e25e31d8c3ec49adc270c58c9f"
         }
       },
       "eslint-config": {
@@ -971,12 +981,17 @@
             "score": 8.8,
             "date": "2025-01-10T16:05:02Z",
             "commit": "5f2f2b48893a05fff9b4185c9e5f15f315272fb3"
+          },
+          {
+            "score": 8.7,
+            "date": "2025-05-31T11:41:51Z",
+            "commit": "73b831343a317a8dcd38265a6c84514b72437102"
           }
         ],
         "current": {
-          "score": 8.7,
-          "date": "2025-05-31T11:41:51Z",
-          "commit": "73b831343a317a8dcd38265a6c84514b72437102"
+          "score": 8.8,
+          "date": "2025-06-21T15:27:48Z",
+          "commit": "72fc1142f9de1ae43c5577bd9a323bb9e1b2c300"
         }
       },
       "gitlab": {
@@ -1224,12 +1239,17 @@
             "score": 7.5,
             "date": "2025-05-24T21:32:06Z",
             "commit": "e3e6acb871443c37f1878b04275ea953a51f969a"
+          },
+          {
+            "score": 7.7,
+            "date": "2025-05-28T11:36:25Z",
+            "commit": "6cb7a02f9e8b4c8159eb2a8d582e63a078e9d094"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2025-05-28T11:36:25Z",
-          "commit": "6cb7a02f9e8b4c8159eb2a8d582e63a078e9d094"
+          "score": 8.1,
+          "date": "2025-06-18T22:43:28Z",
+          "commit": "acd9f871d8c5b4138043db744c532532f4eca599"
         }
       },
       "size-satisfies": {
@@ -2832,12 +2852,17 @@
             "score": 8.2,
             "date": "2025-05-25T22:45:32Z",
             "commit": "3efb7210535bde97d7f84ba78ceeebb09a0aab5d"
+          },
+          {
+            "score": 8.3,
+            "date": "2025-06-01T22:45:53Z",
+            "commit": "6f29b4c4122cc937dcd0319b8e83291773cd1cf1"
           }
         ],
         "current": {
-          "score": 8.3,
-          "date": "2025-06-01T22:45:53Z",
-          "commit": "6f29b4c4122cc937dcd0319b8e83291773cd1cf1"
+          "score": 8.4,
+          "date": "2025-06-20T11:55:56Z",
+          "commit": "6fb4a7ecc730a94d547ad565022685b9642c3132"
         }
       },
       "domain-check": {
@@ -3157,12 +3182,17 @@
             "score": 8.3,
             "date": "2025-05-26T15:47:03Z",
             "commit": "23f7c9d09963eb041473460f4d7063351bf27308"
+          },
+          {
+            "score": 8.4,
+            "date": "2025-06-02T15:48:58Z",
+            "commit": "8899cf477421964c8b7a213b79fec7b0cfc6f76c"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2025-06-02T15:48:58Z",
-          "commit": "8899cf477421964c8b7a213b79fec7b0cfc6f76c"
+          "score": 8.5,
+          "date": "2025-06-16T15:50:04Z",
+          "commit": "fd4b638faeaade82ae952db8cd9c5b8df43989ac"
         }
       },
       "estree-ast-utils": {
