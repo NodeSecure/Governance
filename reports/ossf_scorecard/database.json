@@ -266,12 +266,17 @@
             "score": 7.6,
             "date": "2025-05-20T06:52:59Z",
             "commit": "de2b7c048a046e812e280a94d5a7025b12787fa6"
+          },
+          {
+            "score": 7.7,
+            "date": "2025-06-20T20:44:59Z",
+            "commit": "3b4aa66cab1fc3e25e31d8c3ec49adc270c58c9f"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2025-06-20T20:44:59Z",
-          "commit": "3b4aa66cab1fc3e25e31d8c3ec49adc270c58c9f"
+          "score": 7.9,
+          "date": "2025-06-28T14:53:13Z",
+          "commit": "5cb680da88ad694af2c2bf875591218aee40b8f9"
         }
       },
       "eslint-config": {
@@ -837,12 +842,17 @@
             "score": 8.6,
             "date": "2025-05-30T18:43:01Z",
             "commit": "c13ed643d3e30012a5178545fbd90180f38ada30"
+          },
+          {
+            "score": 8.8,
+            "date": "2025-06-06T18:43:39Z",
+            "commit": "2f40fc43e66b288a1e4d36da60d88c075d3d9c2e"
           }
         ],
         "current": {
-          "score": 8.8,
-          "date": "2025-06-06T18:43:39Z",
-          "commit": "2f40fc43e66b288a1e4d36da60d88c075d3d9c2e"
+          "score": 8.9,
+          "date": "2025-06-27T18:43:39Z",
+          "commit": "e4bde33795856c3cab74a1ab047a2dbefc2574ad"
         }
       },
       "cli": {
@@ -2584,12 +2594,17 @@
             "score": 8,
             "date": "2025-05-25T18:43:32Z",
             "commit": "aed0d951ca482584fd5f6033c7aa80d3474781d9"
+          },
+          {
+            "score": 7.9,
+            "date": "2025-06-01T18:44:43Z",
+            "commit": "dd03a6bbca83fc90043d3e3eda085521628bfdde"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2025-06-01T18:44:43Z",
-          "commit": "dd03a6bbca83fc90043d3e3eda085521628bfdde"
+          "score": 8.1,
+          "date": "2025-06-22T18:45:25Z",
+          "commit": "4af36e72f90e7ce3c2dea198d5f6a47a0f33b789"
         }
       },
       "sec-literal": {
@@ -3187,11 +3202,16 @@
             "score": 8.4,
             "date": "2025-06-02T15:48:58Z",
             "commit": "8899cf477421964c8b7a213b79fec7b0cfc6f76c"
+          },
+          {
+            "score": 8.5,
+            "date": "2025-06-16T15:50:04Z",
+            "commit": "fd4b638faeaade82ae952db8cd9c5b8df43989ac"
           }
         ],
         "current": {
-          "score": 8.5,
-          "date": "2025-06-16T15:50:04Z",
+          "score": 8.4,
+          "date": "2025-06-23T15:50:11Z",
           "commit": "fd4b638faeaade82ae952db8cd9c5b8df43989ac"
         }
       },
