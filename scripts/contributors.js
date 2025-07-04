@@ -7,6 +7,8 @@ import compile from "zup";
 // Import Internal Dependencies
 import allContributors from "../contributors.json" with { type: "json" };
 
+const [kind = "core"] = process.argv[2];
+
 // CONSTANTS
 const kNumberOfContributorsPerRow = 3;
 const kRawHTMLTemplate = readFileSync(
@@ -17,9 +19,11 @@ const kRawHTMLTemplate = readFileSync(
 const tableTdGenerator = compile(kRawHTMLTemplate);
 
 let html = "";
-for (const contributors of chunkArray(allContributors.core, kNumberOfContributorsPerRow)) {
+for (const contributors of chunkArray(allContributors[kind], kNumberOfContributorsPerRow)) {
   html += tableTdGenerator({ contributors })
-    .replace(/^\s*$(?:\r\n?|\n)/gm, "");
+    .split("\n")
+    .flatMap((line) => line.trim().length > 0 ? [line] : [])
+    .join("\n");
 }
 console.log(html);
 
