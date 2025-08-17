@@ -862,12 +862,17 @@
             "score": 8.9,
             "date": "2025-06-27T18:43:39Z",
             "commit": "e4bde33795856c3cab74a1ab047a2dbefc2574ad"
+          },
+          {
+            "score": 9,
+            "date": "2025-07-04T18:42:52Z",
+            "commit": "cecd735568c21186ed67ec30ed214a6cb4d0ce74"
           }
         ],
         "current": {
-          "score": 9,
-          "date": "2025-07-04T18:42:52Z",
-          "commit": "cecd735568c21186ed67ec30ed214a6cb4d0ce74"
+          "score": 8.9,
+          "date": "2025-08-15T18:45:52Z",
+          "commit": "71275882be34d81a4c7e63d91af63f816b896210"
         }
       },
       "cli": {
