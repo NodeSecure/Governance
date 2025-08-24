@@ -867,11 +867,16 @@
             "score": 9,
             "date": "2025-07-04T18:42:52Z",
             "commit": "cecd735568c21186ed67ec30ed214a6cb4d0ce74"
+          },
+          {
+            "score": 8.9,
+            "date": "2025-08-15T18:45:52Z",
+            "commit": "71275882be34d81a4c7e63d91af63f816b896210"
           }
         ],
         "current": {
-          "score": 8.9,
-          "date": "2025-08-15T18:45:52Z",
+          "score": 8.8,
+          "date": "2025-08-22T18:43:05Z",
           "commit": "71275882be34d81a4c7e63d91af63f816b896210"
         }
       },
@@ -2128,12 +2133,17 @@
             "score": 7.8,
             "date": "2025-07-31T18:48:45Z",
             "commit": "e84e481710100e5b72df28509174a1905aaca110"
+          },
+          {
+            "score": 7.7,
+            "date": "2025-08-07T18:50:11Z",
+            "commit": "fc0b91fd7916d4a8bbc3f190c0d5e870e76e34a1"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2025-08-07T18:50:11Z",
-          "commit": "fc0b91fd7916d4a8bbc3f190c0d5e870e76e34a1"
+          "score": 7.8,
+          "date": "2025-08-21T18:42:34Z",
+          "commit": "645ce5454d6de78d6b04c10b9e9ed9455b273d54"
         }
       },
       "ci-action": {
