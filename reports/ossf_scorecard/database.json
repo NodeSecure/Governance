@@ -2729,12 +2729,17 @@
             "score": 8.5,
             "date": "2025-09-07T18:41:35Z",
             "commit": "0411750f7a47bab98b3373aec7eb6d26c056d41e"
+          },
+          {
+            "score": 8.7,
+            "date": "2025-09-19T10:56:02Z",
+            "commit": "2c64c4964f030713e6e84407dd24ff64150f120d"
           }
         ],
         "current": {
-          "score": 8.7,
-          "date": "2025-09-19T10:56:02Z",
-          "commit": "2c64c4964f030713e6e84407dd24ff64150f120d"
+          "score": 8.6,
+          "date": "2025-09-25T14:56:54Z",
+          "commit": "c6259f8450d010cff65678cf74d67f22580a36f7"
         }
       },
       "sec-literal": {
