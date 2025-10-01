@@ -183,46 +183,6 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/antoine-coulon" target="_blank"></a>
-        <img src="https://github.com/antoine-coulon.png?s=200" width="200px;" alt="Antoine"/>
-        <br />
-        <div>
-          <sub><b>Antoine</b></sub>
-        </div>
-      </a>
-      <div>
-        <sup>
-          Freelance  at
-          <a target="_blank" href="#">Seanine Consulting</a>
-        </sup>
-      </div>
-      <a target="_blank" href="https://www.linkedin.com/in/antoine-coulon-c9/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a target="_blank" href="https://x.com/c9antoine">
-        <img src="https://img.shields.io/badge/c9antoine-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000" />
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kawacrepe" target="_blank"></a>
-        <img src="https://github.com/Kawacrepe.png?s=200" width="200px;" alt="Vincent"/>
-        <br />
-        <div>
-          <sub><b>Vincent</b></sub>
-        </div>
-      </a>
-      <div>
-        <sup>
-          Développeur full-stack
-        </sup>
-      </div>
-      <a target="_blank" href="https://www.linkedin.com/in/vincentdhennin/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br />
-    </td>
-    <td align="center">
       <a href="https://github.com/im-codebreaker" target="_blank"></a>
         <img src="https://github.com/im-codebreaker.png?s=200" width="200px;" alt="Mehdi"/>
         <br />
@@ -281,6 +241,55 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/cl%C3%A9ment-gombauld/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
+
+### Emeriti
+
+Former NodeSecure TSC members who made **significant contributions** to the project's development. While no longer actively involved in day-to-day governance, their expertise and dedication were **important** to NodeSecure's growth and success.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Kawacrepe" target="_blank"></a>
+        <img src="https://github.com/Kawacrepe.png?s=200" width="200px;" alt="Vincent"/>
+        <br />
+        <div>
+          <sub><b>Vincent</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>
+          Développeur full-stack
+        </sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/vincentdhennin/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/antoine-coulon" target="_blank"></a>
+        <img src="https://github.com/antoine-coulon.png?s=200" width="200px;" alt="Antoine"/>
+        <br />
+        <div>
+          <sub><b>Antoine</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>
+          Freelance  at
+          <a target="_blank" href="#">Seanine Consulting</a>
+        </sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/antoine-coulon-c9/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a target="_blank" href="https://x.com/c9antoine">
+        <img src="https://img.shields.io/badge/c9antoine-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000" />
       </a>
       <br />
     </td>
