@@ -201,6 +201,24 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
       </a>
       <br />
     </td>
+    <td align="center">
+      <a href="https://blog-clement-gombauld.vercel.app/" target="_blank">
+        <img src="https://github.com/clemgbld.png?s=200" width="200px;" alt="Clement"/>
+        <br />
+        <div>
+          <sub><b>Clement</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>
+          Full-stack developer
+        </sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/cl%C3%A9ment-gombauld/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
   </tr>
 </table>
 
@@ -222,24 +240,6 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
         </sup>
       </div>
       <a target="_blank" href="https://www.linkedin.com/in/kouadio-fabrice-n-guessan-59395b108/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://blog-clement-gombauld.vercel.app/" target="_blank">
-        <img src="https://github.com/clemgbld.png?s=200" width="200px;" alt="Clement"/>
-        <br />
-        <div>
-          <sub><b>Clement</b></sub>
-        </div>
-      </a>
-      <div>
-        <sup>
-          Full-stack developer
-        </sup>
-      </div>
-      <a target="_blank" href="https://www.linkedin.com/in/cl%C3%A9ment-gombauld/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <br />
