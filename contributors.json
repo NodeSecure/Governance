@@ -69,6 +69,17 @@
       "links": {
         "linkedin": "https://www.linkedin.com/in/mehdi-bouchard/"
       }
+    },
+    {
+      "name": "Clement",
+      "github": "clemgbld",
+      "company": {
+        "title": "Full-stack developer"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/cl%C3%A9ment-gombauld/",
+        "personal": "https://blog-clement-gombauld.vercel.app/"
+      }
     }
   ],
   "committers": [
@@ -80,17 +91,6 @@
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/kouadio-fabrice-n-guessan-59395b108/"
-      }
-    },
-    {
-      "name": "Clement",
-      "github": "clemgbld",
-      "company": {
-        "title": "Full-stack developer"
-      },
-      "links": {
-        "linkedin": "https://www.linkedin.com/in/cl%C3%A9ment-gombauld/",
-        "personal": "https://blog-clement-gombauld.vercel.app/"
       }
     }
   ]
