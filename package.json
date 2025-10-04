@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/NodeSecure/Governance#readme",
   "dependencies": {
-    "zup": "^0.0.2"
+    "zup": "0.0.2"
   }
 }
