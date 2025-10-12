@@ -3402,12 +3402,17 @@
             "score": 8.5,
             "date": "2025-09-15T15:45:42Z",
             "commit": "75853538401901edfd0cecb423fd13cc4a70e49f"
+          },
+          {
+            "score": 8.4,
+            "date": "2025-09-29T15:45:54Z",
+            "commit": "75853538401901edfd0cecb423fd13cc4a70e49f"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2025-09-29T15:45:54Z",
-          "commit": "75853538401901edfd0cecb423fd13cc4a70e49f"
+          "score": 8.5,
+          "date": "2025-10-06T15:45:49Z",
+          "commit": "e3bb41765e004cfd1f790602beeaee1123e941bf"
         }
       },
       "estree-ast-utils": {
