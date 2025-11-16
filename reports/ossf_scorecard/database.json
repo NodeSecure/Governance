@@ -291,12 +291,17 @@
             "score": 7.5,
             "date": "2025-10-23T21:21:17Z",
             "commit": "f4da076f7fe4634dcdbbfa86ca7f78e9af5c1f4e"
+          },
+          {
+            "score": 8,
+            "date": "2025-11-07T09:34:27Z",
+            "commit": "a98fe96418e7da1ca90a735f6811bf78ae486f51"
           }
         ],
         "current": {
-          "score": 8,
-          "date": "2025-11-07T09:34:27Z",
-          "commit": "a98fe96418e7da1ca90a735f6811bf78ae486f51"
+          "score": 7.9,
+          "date": "2025-11-11T08:02:58Z",
+          "commit": "6edb7771cf101eec508bf99e1cf7fff82cb0b06c"
         }
       },
       "eslint-config": {
