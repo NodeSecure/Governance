@@ -708,12 +708,17 @@
             "score": 7.4,
             "date": "2025-11-07T21:24:50Z",
             "commit": "ab93e60b90a4179be53d398a20f66078f8c86408"
+          },
+          {
+            "score": 7.9,
+            "date": "2025-11-29T15:34:25Z",
+            "commit": "d58de49c0c71e76e5d24dc83d1f9a7fb3981419d"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2025-11-29T15:34:25Z",
-          "commit": "d58de49c0c71e76e5d24dc83d1f9a7fb3981419d"
+          "score": 8,
+          "date": "2026-01-02T21:26:18Z",
+          "commit": "c13afafb4d781bc4955cea4209a6914ae660cc65"
         }
       },
       "report": {
