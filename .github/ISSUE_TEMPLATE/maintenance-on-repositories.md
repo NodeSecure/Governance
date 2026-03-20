@@ -13,8 +13,6 @@ assignees: ''
 - [ ] [scanner](https://github.com/NodeSecure/scanner)
 - [ ] [JS-X-Ray](https://github.com/NodeSecure/js-x-ray)
 - [ ] [vulnera](https://github.com/NodeSecure/vulnera)
-- [ ] [CI](https://github.com/NodeSecure/ci)
-- [ ] [ci-action](https://github.com/NodeSecure/ci-action)
 - [ ] [report](https://github.com/NodeSecure/report)
 - [ ] [ossf-scorecard-sdk](https://github.com/NodeSecure/ossf-scorecard-sdk)
 - [ ] [npm-registry-sdk](https://github.com/NodeSecure/npm-registry-sdk)
