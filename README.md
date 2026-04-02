@@ -244,6 +244,24 @@ If an agenda item cannot reach a consensus, a TSC member can call for either a c
       </a>
       <br />
     </td>
+    <td align="center">
+      <a href="https://github.com/ErwanRaulo" target="_blank">
+        <img src="https://github.com/ErwanRaulo.png?s=200" width="200px;" alt="Erwan"/>
+        <br />
+        <div>
+          <sub><b>Erwan</b></sub>
+        </div>
+      </a>
+      <div>
+        <sup>
+          Full-stack developer
+        </sup>
+      </div>
+      <a target="_blank" href="https://www.linkedin.com/in/developpeur-fullstack-angular-node-aws-accessibilite-ecommerce-data-luxe/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+    </td>
   </tr>
 </table>
 
