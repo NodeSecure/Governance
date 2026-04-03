@@ -92,6 +92,16 @@
       "links": {
         "linkedin": "https://www.linkedin.com/in/kouadio-fabrice-n-guessan-59395b108/"
       }
+    },
+    {
+      "name": "Erwan",
+      "github": "ErwanRaulo",
+      "company": {
+        "title": "Full-stack developer"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/developpeur-fullstack-angular-node-aws-accessibilite-ecommerce-data-luxe/"
+      }
     }
   ]
 }

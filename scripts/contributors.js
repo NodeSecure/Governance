@@ -7,7 +7,7 @@ import compile from "zup";
 // Import Internal Dependencies
 import allContributors from "../contributors.json" with { type: "json" };
 
-const [kind = "core"] = process.argv[2];
+const [kind = "core"] = process.argv.slice(2);
 
 // CONSTANTS
 const kNumberOfContributorsPerRow = 3;
@@ -23,7 +23,7 @@ for (const contributors of chunkArray(allContributors[kind], kNumberOfContributo
   html += tableTdGenerator({ contributors })
     .split("\n")
     .flatMap((line) => line.trim().length > 0 ? [line] : [])
-    .join("\n");
+    .join("\n") + "\n";
 }
 console.log(html);
 
