@@ -3652,12 +3652,17 @@
             "score": 8.3,
             "date": "2026-02-16T16:22:26Z",
             "commit": "12599d99e3b24b9ff23877ce3ad95fa7086276c4"
+          },
+          {
+            "score": 8.5,
+            "date": "2026-03-25T14:29:55Z",
+            "commit": "d6ccf717ebad746be4fcd4b2acc1ceabd9294a90"
           }
         ],
         "current": {
-          "score": 8.5,
-          "date": "2026-03-25T14:29:55Z",
-          "commit": "d6ccf717ebad746be4fcd4b2acc1ceabd9294a90"
+          "score": 8.6,
+          "date": "2026-03-30T16:35:33Z",
+          "commit": "43fa1a637141abbfc059ee472be54315fe6441db"
         }
       },
       "estree-ast-utils": {
