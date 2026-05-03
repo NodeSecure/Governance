@@ -1494,11 +1494,16 @@
             "score": 7.5,
             "date": "2026-02-11T12:02:05Z",
             "commit": "7858ee9cf54e39df2bc0fa45379c05d8fe33f77d"
+          },
+          {
+            "score": 8.3,
+            "date": "2026-03-25T14:24:38Z",
+            "commit": "320c2ab1b3a0207200787b69b7e698e51ffadff6"
           }
         ],
         "current": {
-          "score": 8.3,
-          "date": "2026-03-25T14:24:38Z",
+          "score": 8.1,
+          "date": "2026-04-29T13:08:48Z",
           "commit": "320c2ab1b3a0207200787b69b7e698e51ffadff6"
         }
       },
@@ -3667,12 +3672,17 @@
             "score": 8.5,
             "date": "2026-03-25T14:29:55Z",
             "commit": "d6ccf717ebad746be4fcd4b2acc1ceabd9294a90"
+          },
+          {
+            "score": 8.6,
+            "date": "2026-03-30T16:35:33Z",
+            "commit": "43fa1a637141abbfc059ee472be54315fe6441db"
           }
         ],
         "current": {
-          "score": 8.6,
-          "date": "2026-03-30T16:35:33Z",
-          "commit": "43fa1a637141abbfc059ee472be54315fe6441db"
+          "score": 8.5,
+          "date": "2026-04-27T17:09:11Z",
+          "commit": "cd5def14760aef13a5fdfa7666edf22673dddbfc"
         }
       },
       "estree-ast-utils": {
