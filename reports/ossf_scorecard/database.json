@@ -1499,11 +1499,16 @@
             "score": 8.3,
             "date": "2026-03-25T14:24:38Z",
             "commit": "320c2ab1b3a0207200787b69b7e698e51ffadff6"
+          },
+          {
+            "score": 8.1,
+            "date": "2026-04-29T13:08:48Z",
+            "commit": "320c2ab1b3a0207200787b69b7e698e51ffadff6"
           }
         ],
         "current": {
-          "score": 8.1,
-          "date": "2026-04-29T13:08:48Z",
+          "score": 8.3,
+          "date": "2026-05-06T13:15:11Z",
           "commit": "320c2ab1b3a0207200787b69b7e698e51ffadff6"
         }
       },
