@@ -10,7 +10,8 @@
       "links": {
         "linkedin": "https://www.linkedin.com/in/thomas-gentilhomme/",
         "x": "fraxken"
-      }
+      },
+      "status": "active"
     },
     {
       "name": "Pierre",
@@ -22,7 +23,8 @@
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/pierre-demailly/"
-      }
+      },
+      "status": "active"
     },
     {
       "name": "Tony",
@@ -34,7 +36,8 @@
         "linkedin": "https://www.linkedin.com/in/tonygorez/",
         "personal": "https://tonygo.tech/",
         "x": "tonygo_"
-      }
+      },
+      "status": "active"
     },
     {
       "name": "Antoine",
@@ -46,7 +49,8 @@
       "links": {
         "linkedin": "https://www.linkedin.com/in/antoine-coulon-c9/",
         "x": "c9antoine"
-      }
+      },
+      "status": "inactive"
     },
     {
       "name": "Vincent",
@@ -56,7 +60,8 @@
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/vincentdhennin/"
-      }
+      },
+      "status": "inactive"
     },
     {
       "name": "Mehdi",
@@ -68,7 +73,8 @@
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/mehdi-bouchard/"
-      }
+      },
+      "status": "inactive"
     },
     {
       "name": "Clement",
@@ -79,7 +85,8 @@
       "links": {
         "linkedin": "https://www.linkedin.com/in/cl%C3%A9ment-gombauld/",
         "personal": "https://blog-clement-gombauld.vercel.app/"
-      }
+      },
+      "status": "active"
     }
   ],
   "committers": [
@@ -91,7 +98,8 @@
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/kouadio-fabrice-n-guessan-59395b108/"
-      }
+      },
+      "status": "active"
     },
     {
       "name": "Erwan",
@@ -101,7 +109,8 @@
       },
       "links": {
         "linkedin": "https://www.linkedin.com/in/developpeur-fullstack-angular-node-aws-accessibilite-ecommerce-data-luxe/"
-      }
+      },
+      "status": "active"
     }
   ]
 }
