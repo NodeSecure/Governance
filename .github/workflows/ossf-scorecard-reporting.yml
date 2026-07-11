@@ -18,6 +18,11 @@ jobs:
   security-scoring:
     runs-on: ubuntu-latest
     steps:
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@bf7454d06d71f1098171f2acdf0cd4708d7b5920 # v2.20.0
+        with:
+          egress-policy: audit
+
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
       - name: OpenSSF Scorecard Monitor
         uses: ossf/scorecard-monitor@a3a9c4cfa0684480ec5f86fa178fc22c4394b69e # v2.0.0-beta8
