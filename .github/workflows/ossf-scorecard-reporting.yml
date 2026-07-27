@@ -23,7 +23,7 @@ jobs:
         with:
           egress-policy: audit
 
-      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: OpenSSF Scorecard Monitor
         uses: ossf/scorecard-monitor@a3a9c4cfa0684480ec5f86fa178fc22c4394b69e # v2.0.0-beta8
         with:
