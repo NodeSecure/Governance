@@ -3847,12 +3847,17 @@
             "score": 8.1,
             "date": "2026-06-29T17:58:20Z",
             "commit": "27f3389e957bcf56b18d1beebb68c02cf7cb5446"
+          },
+          {
+            "score": 8.2,
+            "date": "2026-07-11T21:50:30Z",
+            "commit": "df2b45fa018ae0f55f709e9bb55d69b723f04fe7"
           }
         ],
         "current": {
-          "score": 8.2,
-          "date": "2026-07-11T21:50:30Z",
-          "commit": "df2b45fa018ae0f55f709e9bb55d69b723f04fe7"
+          "score": 8.3,
+          "date": "2026-08-10T16:27:15Z",
+          "commit": "bda222912d31cb08faeeeedb350896d7bf84ac7f"
         }
       },
       "estree-ast-utils": {
