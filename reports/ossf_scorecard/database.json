@@ -1291,12 +1291,17 @@
             "score": 8.5,
             "date": "2026-06-29T20:29:20Z",
             "commit": "06abb1aa693ef15491b6e8fc9b97a7e8fc62b76a"
+          },
+          {
+            "score": 8.9,
+            "date": "2026-07-11T21:53:54Z",
+            "commit": "894ab542d61ce70fa40fb98f3ee7d18ad4b4ea47"
           }
         ],
         "current": {
-          "score": 8.9,
-          "date": "2026-07-11T21:53:54Z",
-          "commit": "894ab542d61ce70fa40fb98f3ee7d18ad4b4ea47"
+          "score": 8.8,
+          "date": "2026-08-17T19:13:46Z",
+          "commit": "9f7c27876a1a37e0f38fdcbaec318af43304ab16"
         }
       },
       "gitlab": {
