@@ -3184,12 +3184,17 @@
             "score": 8.3,
             "date": "2026-08-30T21:20:00Z",
             "commit": "e8ce733f22bd6599b1a59fe95c8e4c4ef8e26bab"
+          },
+          {
+            "score": 8.4,
+            "date": "2026-09-06T20:36:37Z",
+            "commit": "010d7bc7ce44f19d16700b7385cac7ab87868153"
           }
         ],
         "current": {
-          "score": 8.4,
-          "date": "2026-09-06T20:36:37Z",
-          "commit": "010d7bc7ce44f19d16700b7385cac7ab87868153"
+          "score": 8.5,
+          "date": "2026-09-13T20:59:59Z",
+          "commit": "a32f29dddf0e927648008206308abbbb4d2c1014"
         }
       },
       "sec-literal": {
